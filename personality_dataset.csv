@@ -1,0 +1,1001 @@
+age,favourite_colour,preferred_biscuit,dominant_hand,likes_pineapple_on_pizza,zodiac_sign,preferred_pet_type,political_leaning,drives,personality
+70,Green,Bourbon,Right,Yes,Leo,Fish,Center,Yes,Introvert
+38,Orange,Jammie Dodger,Left,No,Taurus,Fish,Left,Yes,Ambivert
+24,Brown,Shortbread,Right,Yes,Cancer,Dog,Left,No,Ambivert
+30,Blue,Shortbread,Right,Yes,Pisces,Fish,Right,No,Introvert
+60,Purple,Hobnob,Right,Yes,Taurus,Cat,Center-Left,No,Extrovert
+29,Orange,Ginger Nut,Right,No,Aries,Rabbit,Right,Yes,Ambivert
+57,Black,Shortbread,Left,No,Capricorn,Rabbit,Center-Left,No,Introvert
+45,Black,Jammie Dodger,Left,Yes,Leo,Fish,Center-Right,Yes,Introvert
+43,Red,Ginger Nut,Left,Yes,Virgo,Rabbit,Center-Left,No,Extrovert
+47,White,Nice,Right,No,Libra,Dog,Left,No,Introvert
+20,Brown,Shortbread,Left,No,Taurus,Cat,Left,Yes,Introvert
+23,White,Rich Tea,Right,No,Capricorn,Fish,Center-Right,Yes,Introvert
+37,Pink,Nice,Right,Yes,Scorpio,Cat,Right,Yes,Ambivert
+52,Purple,Bourbon,Right,No,Aquarius,Dog,Center-Right,Yes,Ambivert
+41,Brown,Rich Tea,Left,Yes,Aquarius,Bird,Right,No,Introvert
+48,Blue,Nice,Left,No,Sagittarius,Bird,Center-Left,No,Introvert
+38,Purple,Garibaldi,Right,No,Pisces,Fish,Right,Yes,Introvert
+22,Black,Custard Cream,Left,Yes,Sagittarius,Dog,Right,Yes,Ambivert
+63,Black,Custard Cream,Left,Yes,Gemini,Cat,Left,Yes,Introvert
+25,Purple,Jammie Dodger,Left,Yes,Gemini,Rabbit,Right,No,Extrovert
+65,Brown,Digestive,Left,Yes,Taurus,Dog,Center-Left,Yes,Ambivert
+40,Green,Custard Cream,Right,Yes,Leo,Cat,Center,No,Ambivert
+18,Red,Rich Tea,Left,No,Libra,Bird,Left,No,Introvert
+19,Purple,Jammie Dodger,Right,No,Cancer,Bird,Left,Yes,Extrovert
+55,Blue,Jammie Dodger,Left,No,Capricorn,Dog,Center-Right,No,Ambivert
+44,Red,Rich Tea,Right,Yes,Leo,Dog,Center,No,Introvert
+38,Orange,Hobnob,Right,No,Aquarius,Rabbit,Left,Yes,Ambivert
+38,Orange,Digestive,Right,Yes,Gemini,Fish,Center,Yes,Introvert
+33,Black,Shortbread,Left,No,Cancer,Rabbit,Center-Left,No,Introvert
+18,Pink,Ginger Nut,Right,No,Scorpio,Bird,Center-Left,No,Extrovert
+29,Pink,Custard Cream,Left,No,Aquarius,Rabbit,Right,No,Ambivert
+40,Green,Bourbon,Right,Yes,Capricorn,Bird,Left,Yes,Ambivert
+32,Black,Custard Cream,Right,No,Cancer,Rabbit,Left,Yes,Introvert
+69,Pink,Digestive,Right,No,Aquarius,Rabbit,Center,Yes,Ambivert
+65,Brown,Shortbread,Left,Yes,Scorpio,Bird,Center-Right,Yes,Ambivert
+44,Blue,Custard Cream,Right,Yes,Virgo,Cat,Center-Left,No,Ambivert
+54,Blue,Garibaldi,Right,Yes,Capricorn,Bird,Center,No,Extrovert
+39,Blue,Hobnob,Left,No,Scorpio,Cat,Right,No,Introvert
+28,Black,Nice,Right,Yes,Libra,Rabbit,Left,No,Introvert
+33,Yellow,Jammie Dodger,Right,No,Gemini,Cat,Right,No,Extrovert
+40,Purple,Ginger Nut,Right,Yes,Cancer,Rabbit,Center-Left,Yes,Extrovert
+26,Green,Rich Tea,Right,Yes,Scorpio,Dog,Right,No,Introvert
+30,Green,Digestive,Right,Yes,Cancer,Bird,Center-Right,No,Ambivert
+30,Black,Digestive,Left,No,Gemini,Fish,Center-Right,No,Introvert
+40,Black,Bourbon,Right,Yes,Virgo,Cat,Center-Left,No,Introvert
+79,Blue,Rich Tea,Left,Yes,Pisces,Rabbit,Center-Left,Yes,Introvert
+60,Brown,Nice,Left,No,Aquarius,Dog,Center,Yes,Introvert
+21,White,Nice,Right,Yes,Capricorn,Cat,Left,No,Introvert
+33,Black,Bourbon,Right,Yes,Leo,Dog,Right,No,Introvert
+25,Green,Jammie Dodger,Left,No,Leo,Fish,Center,Yes,Introvert
+51,Black,Hobnob,Left,No,Sagittarius,Bird,Left,No,Introvert
+24,Pink,Hobnob,Left,Yes,Leo,Rabbit,Center,No,Extrovert
+54,Pink,Bourbon,Right,Yes,Libra,Fish,Center,Yes,Extrovert
+44,Pink,Rich Tea,Left,No,Cancer,Bird,Right,Yes,Introvert
+80,Purple,Nice,Left,Yes,Pisces,Bird,Center-Right,Yes,Ambivert
+33,White,Garibaldi,Right,No,Cancer,Dog,Center,No,Ambivert
+69,Orange,Digestive,Left,No,Sagittarius,Rabbit,Left,No,Introvert
+77,Blue,Garibaldi,Left,Yes,Scorpio,Rabbit,Center-Right,No,Extrovert
+52,Purple,Custard Cream,Left,No,Capricorn,Bird,Center,Yes,Ambivert
+31,Pink,Nice,Left,No,Virgo,Fish,Center-Right,No,Introvert
+65,Pink,Garibaldi,Left,No,Pisces,Cat,Center-Left,No,Ambivert
+26,Purple,Digestive,Right,No,Gemini,Cat,Left,No,Introvert
+63,Yellow,Shortbread,Left,No,Sagittarius,Bird,Center-Left,No,Ambivert
+54,Black,Ginger Nut,Left,No,Sagittarius,Fish,Center-Right,No,Introvert
+59,Red,Bourbon,Right,No,Virgo,Rabbit,Center-Right,Yes,Ambivert
+58,Blue,Jammie Dodger,Left,Yes,Taurus,Dog,Center,Yes,Extrovert
+18,Green,Rich Tea,Right,Yes,Taurus,Dog,Center-Right,Yes,Introvert
+56,Brown,Ginger Nut,Left,No,Taurus,Bird,Center,Yes,Introvert
+32,Red,Hobnob,Right,Yes,Virgo,Cat,Left,No,Extrovert
+51,Green,Nice,Right,Yes,Cancer,Cat,Left,Yes,Introvert
+36,Black,Hobnob,Right,No,Capricorn,Cat,Right,Yes,Introvert
+29,Red,Garibaldi,Left,No,Scorpio,Dog,Right,No,Ambivert
+70,Blue,Jammie Dodger,Right,Yes,Scorpio,Fish,Left,Yes,Ambivert
+34,Yellow,Digestive,Left,Yes,Sagittarius,Rabbit,Left,Yes,Extrovert
+32,Green,Jammie Dodger,Left,Yes,Sagittarius,Fish,Center,No,Ambivert
+59,Pink,Ginger Nut,Left,Yes,Gemini,Cat,Left,No,Extrovert
+31,Black,Garibaldi,Left,Yes,Sagittarius,Fish,Center-Right,No,Introvert
+19,Blue,Hobnob,Right,No,Pisces,Fish,Right,Yes,Introvert
+29,Black,Rich Tea,Right,Yes,Scorpio,Fish,Left,Yes,Introvert
+73,Blue,Bourbon,Right,Yes,Gemini,Cat,Left,Yes,Ambivert
+23,Pink,Digestive,Right,No,Aquarius,Fish,Left,Yes,Introvert
+36,White,Jammie Dodger,Left,No,Cancer,Fish,Center-Left,No,Introvert
+50,Yellow,Hobnob,Left,No,Scorpio,Fish,Center,Yes,Introvert
+36,Red,Bourbon,Left,Yes,Virgo,Fish,Center,Yes,Ambivert
+22,Yellow,Hobnob,Right,Yes,Gemini,Dog,Right,Yes,Extrovert
+35,Red,Custard Cream,Left,Yes,Gemini,Dog,Right,No,Extrovert
+78,Red,Rich Tea,Left,Yes,Sagittarius,Bird,Right,No,Introvert
+36,Blue,Custard Cream,Right,Yes,Sagittarius,Bird,Center-Right,Yes,Ambivert
+70,Brown,Jammie Dodger,Left,No,Aquarius,Rabbit,Center,No,Introvert
+65,Green,Rich Tea,Left,Yes,Cancer,Cat,Center,Yes,Introvert
+64,Yellow,Nice,Left,No,Capricorn,Fish,Center-Left,No,Introvert
+29,Red,Garibaldi,Left,No,Gemini,Dog,Center,Yes,Ambivert
+49,Black,Jammie Dodger,Right,No,Pisces,Rabbit,Left,No,Introvert
+23,Pink,Custard Cream,Left,Yes,Aries,Fish,Left,No,Extrovert
+67,Brown,Jammie Dodger,Right,No,Cancer,Bird,Center,No,Introvert
+69,Blue,Hobnob,Right,No,Libra,Cat,Center-Left,No,Introvert
+77,Purple,Jammie Dodger,Left,No,Cancer,Dog,Left,Yes,Extrovert
+63,Yellow,Nice,Left,No,Leo,Bird,Center-Right,Yes,Introvert
+56,Green,Garibaldi,Left,No,Cancer,Rabbit,Center-Right,Yes,Ambivert
+69,Blue,Nice,Left,No,Capricorn,Rabbit,Left,No,Introvert
+21,Brown,Nice,Right,Yes,Leo,Bird,Right,No,Introvert
+57,Orange,Garibaldi,Right,No,Virgo,Dog,Left,Yes,Extrovert
+58,Orange,Jammie Dodger,Right,No,Libra,Bird,Center-Right,No,Extrovert
+58,White,Custard Cream,Left,No,Leo,Bird,Right,Yes,Ambivert
+73,Blue,Digestive,Left,No,Cancer,Fish,Left,No,Introvert
+46,Green,Bourbon,Right,No,Taurus,Cat,Center-Right,Yes,Introvert
+34,Green,Ginger Nut,Right,Yes,Aries,Fish,Center-Left,Yes,Ambivert
+51,Black,Ginger Nut,Left,Yes,Scorpio,Fish,Left,Yes,Introvert
+73,Purple,Ginger Nut,Left,No,Libra,Dog,Left,No,Ambivert
+39,White,Rich Tea,Left,Yes,Leo,Cat,Center-Left,Yes,Introvert
+41,Red,Rich Tea,Left,No,Virgo,Rabbit,Right,Yes,Introvert
+43,Orange,Bourbon,Right,Yes,Leo,Cat,Center-Right,No,Ambivert
+73,Green,Ginger Nut,Right,No,Virgo,Dog,Left,Yes,Ambivert
+65,Brown,Custard Cream,Right,No,Pisces,Bird,Center-Right,Yes,Introvert
+36,Pink,Nice,Left,Yes,Cancer,Rabbit,Right,Yes,Extrovert
+52,Green,Jammie Dodger,Left,Yes,Taurus,Cat,Center,Yes,Extrovert
+72,Blue,Digestive,Left,No,Pisces,Fish,Center,Yes,Introvert
+32,Pink,Jammie Dodger,Right,No,Scorpio,Cat,Center-Right,No,Extrovert
+61,Black,Hobnob,Right,Yes,Gemini,Fish,Right,Yes,Introvert
+19,Purple,Nice,Right,Yes,Virgo,Fish,Center-Left,No,Introvert
+65,Black,Digestive,Right,Yes,Aquarius,Rabbit,Center-Right,No,Introvert
+47,Brown,Custard Cream,Left,No,Libra,Cat,Left,Yes,Introvert
+77,Brown,Hobnob,Left,Yes,Leo,Cat,Right,No,Introvert
+29,Yellow,Custard Cream,Left,Yes,Libra,Cat,Center-Right,No,Extrovert
+26,Orange,Ginger Nut,Left,No,Capricorn,Bird,Left,No,Ambivert
+48,Yellow,Jammie Dodger,Right,Yes,Scorpio,Dog,Center-Right,No,Extrovert
+50,White,Bourbon,Left,Yes,Capricorn,Fish,Center-Left,Yes,Introvert
+57,Black,Jammie Dodger,Right,No,Sagittarius,Cat,Center-Right,Yes,Introvert
+20,White,Custard Cream,Right,Yes,Gemini,Bird,Center,No,Ambivert
+62,Yellow,Rich Tea,Left,Yes,Virgo,Bird,Center-Left,Yes,Ambivert
+79,Red,Ginger Nut,Left,No,Virgo,Cat,Left,No,Introvert
+43,Pink,Custard Cream,Right,Yes,Aries,Cat,Center-Left,No,Extrovert
+72,Purple,Bourbon,Right,No,Capricorn,Dog,Center-Left,Yes,Ambivert
+79,Brown,Hobnob,Right,No,Scorpio,Cat,Center-Right,No,Introvert
+52,White,Digestive,Right,Yes,Scorpio,Dog,Left,Yes,Ambivert
+46,Yellow,Custard Cream,Left,No,Aries,Bird,Right,No,Ambivert
+53,Blue,Hobnob,Left,No,Capricorn,Fish,Right,Yes,Introvert
+69,Yellow,Shortbread,Right,No,Leo,Fish,Center,Yes,Introvert
+29,Green,Rich Tea,Right,No,Capricorn,Rabbit,Right,No,Introvert
+23,Blue,Garibaldi,Left,Yes,Pisces,Fish,Left,No,Introvert
+70,Purple,Garibaldi,Left,Yes,Leo,Dog,Left,No,Extrovert
+28,Brown,Rich Tea,Left,No,Virgo,Dog,Center-Left,Yes,Introvert
+22,Orange,Rich Tea,Left,Yes,Cancer,Fish,Right,Yes,Introvert
+30,Brown,Hobnob,Right,Yes,Sagittarius,Dog,Left,No,Ambivert
+19,White,Custard Cream,Left,No,Libra,Fish,Center,Yes,Introvert
+50,Orange,Jammie Dodger,Left,No,Sagittarius,Rabbit,Left,Yes,Extrovert
+63,Yellow,Shortbread,Right,Yes,Pisces,Bird,Center-Left,Yes,Extrovert
+47,Pink,Custard Cream,Right,No,Capricorn,Bird,Center,No,Ambivert
+80,Red,Hobnob,Left,No,Sagittarius,Rabbit,Center,Yes,Introvert
+50,Pink,Custard Cream,Left,No,Sagittarius,Rabbit,Left,Yes,Extrovert
+30,Brown,Digestive,Left,Yes,Taurus,Cat,Right,Yes,Introvert
+66,Purple,Garibaldi,Right,No,Libra,Fish,Right,Yes,Introvert
+57,Pink,Bourbon,Right,Yes,Capricorn,Bird,Center-Left,No,Extrovert
+69,Black,Bourbon,Left,No,Libra,Rabbit,Right,No,Introvert
+79,Orange,Nice,Right,Yes,Taurus,Bird,Center,No,Ambivert
+42,Orange,Jammie Dodger,Left,No,Leo,Cat,Center-Left,No,Extrovert
+53,Purple,Shortbread,Left,Yes,Capricorn,Fish,Left,Yes,Ambivert
+58,Brown,Hobnob,Right,No,Aries,Rabbit,Right,Yes,Introvert
+44,Pink,Nice,Left,No,Scorpio,Cat,Center-Left,No,Introvert
+61,Orange,Hobnob,Right,Yes,Aries,Cat,Right,No,Extrovert
+63,Black,Ginger Nut,Right,Yes,Cancer,Rabbit,Left,Yes,Ambivert
+52,Red,Jammie Dodger,Left,Yes,Cancer,Rabbit,Center-Left,No,Extrovert
+80,Blue,Custard Cream,Right,No,Taurus,Dog,Left,No,Introvert
+22,Black,Digestive,Left,No,Taurus,Cat,Right,No,Introvert
+33,Green,Garibaldi,Left,Yes,Gemini,Cat,Left,No,Ambivert
+77,Brown,Rich Tea,Right,No,Cancer,Rabbit,Center,No,Introvert
+45,Orange,Jammie Dodger,Left,No,Aries,Dog,Center,Yes,Extrovert
+78,White,Digestive,Left,No,Virgo,Cat,Center-Right,Yes,Introvert
+46,Brown,Jammie Dodger,Right,Yes,Virgo,Bird,Center-Left,No,Extrovert
+54,Black,Garibaldi,Right,Yes,Gemini,Rabbit,Left,No,Introvert
+78,Red,Garibaldi,Right,No,Libra,Rabbit,Center-Right,No,Ambivert
+65,Orange,Shortbread,Right,No,Scorpio,Dog,Center,Yes,Ambivert
+36,Purple,Ginger Nut,Left,Yes,Virgo,Dog,Center,Yes,Extrovert
+64,Blue,Custard Cream,Left,Yes,Leo,Dog,Left,No,Ambivert
+28,Yellow,Nice,Left,No,Libra,Dog,Center-Right,Yes,Introvert
+71,Red,Bourbon,Left,Yes,Sagittarius,Rabbit,Center,Yes,Extrovert
+27,Green,Jammie Dodger,Right,Yes,Sagittarius,Bird,Right,No,Extrovert
+30,Brown,Rich Tea,Left,No,Taurus,Fish,Center-Left,Yes,Introvert
+47,Orange,Shortbread,Right,No,Scorpio,Fish,Center-Left,Yes,Introvert
+68,Orange,Jammie Dodger,Left,Yes,Taurus,Fish,Left,Yes,Extrovert
+56,Red,Garibaldi,Right,Yes,Cancer,Rabbit,Right,Yes,Extrovert
+40,Pink,Jammie Dodger,Right,Yes,Scorpio,Bird,Right,No,Extrovert
+51,Yellow,Ginger Nut,Left,Yes,Libra,Cat,Right,Yes,Extrovert
+57,White,Nice,Right,Yes,Sagittarius,Cat,Left,No,Introvert
+27,Orange,Shortbread,Left,Yes,Aries,Fish,Center-Right,Yes,Ambivert
+29,Pink,Bourbon,Left,Yes,Leo,Cat,Left,No,Extrovert
+31,Orange,Bourbon,Left,No,Leo,Dog,Center-Right,No,Ambivert
+44,Blue,Garibaldi,Left,No,Taurus,Bird,Center-Left,No,Introvert
+27,Black,Bourbon,Right,No,Aquarius,Fish,Center-Right,No,Introvert
+78,Red,Jammie Dodger,Left,No,Virgo,Fish,Right,Yes,Ambivert
+67,Green,Nice,Right,Yes,Scorpio,Fish,Center-Right,Yes,Introvert
+61,Brown,Garibaldi,Left,Yes,Aquarius,Bird,Center-Left,Yes,Extrovert
+18,Blue,Hobnob,Right,Yes,Sagittarius,Bird,Left,No,Ambivert
+40,Yellow,Hobnob,Right,No,Capricorn,Fish,Center-Left,Yes,Introvert
+28,Blue,Custard Cream,Left,Yes,Pisces,Bird,Center-Left,Yes,Ambivert
+23,Green,Nice,Left,Yes,Cancer,Bird,Center-Right,No,Introvert
+69,Green,Jammie Dodger,Right,Yes,Aries,Cat,Center-Right,No,Extrovert
+25,Red,Hobnob,Right,Yes,Pisces,Rabbit,Right,Yes,Extrovert
+42,Pink,Custard Cream,Left,No,Libra,Fish,Center-Right,No,Introvert
+77,Blue,Garibaldi,Left,Yes,Gemini,Cat,Center-Left,No,Ambivert
+73,White,Custard Cream,Right,Yes,Taurus,Cat,Center-Right,Yes,Ambivert
+28,Yellow,Bourbon,Left,No,Pisces,Rabbit,Right,Yes,Ambivert
+74,Purple,Garibaldi,Right,No,Scorpio,Fish,Right,Yes,Introvert
+53,Black,Rich Tea,Right,No,Virgo,Fish,Center,Yes,Introvert
+34,Black,Hobnob,Right,No,Sagittarius,Rabbit,Center,No,Introvert
+74,Black,Bourbon,Right,No,Gemini,Rabbit,Center-Left,Yes,Introvert
+57,White,Hobnob,Left,Yes,Aquarius,Rabbit,Center,Yes,Extrovert
+38,Green,Nice,Right,Yes,Leo,Fish,Center-Left,No,Introvert
+24,Pink,Custard Cream,Right,No,Aquarius,Fish,Right,No,Introvert
+79,Blue,Custard Cream,Left,Yes,Capricorn,Cat,Left,No,Ambivert
+26,Orange,Nice,Left,Yes,Virgo,Bird,Center-Left,Yes,Ambivert
+26,Red,Rich Tea,Right,Yes,Aries,Cat,Right,No,Introvert
+49,White,Custard Cream,Left,Yes,Virgo,Bird,Center,Yes,Ambivert
+30,White,Rich Tea,Left,Yes,Gemini,Fish,Center-Right,Yes,Introvert
+47,Orange,Bourbon,Left,No,Gemini,Rabbit,Center-Right,Yes,Ambivert
+61,Green,Digestive,Left,Yes,Cancer,Rabbit,Left,No,Ambivert
+47,White,Ginger Nut,Left,No,Gemini,Bird,Center-Left,Yes,Introvert
+41,Red,Digestive,Right,Yes,Virgo,Bird,Center-Right,Yes,Ambivert
+24,Pink,Digestive,Right,No,Virgo,Dog,Center,No,Ambivert
+56,Pink,Hobnob,Left,No,Sagittarius,Bird,Right,Yes,Extrovert
+24,Blue,Shortbread,Left,No,Virgo,Cat,Right,No,Introvert
+52,Yellow,Nice,Right,Yes,Virgo,Bird,Center-Right,Yes,Ambivert
+66,Black,Nice,Left,Yes,Aries,Fish,Left,Yes,Introvert
+58,Yellow,Bourbon,Left,Yes,Leo,Rabbit,Center-Left,No,Extrovert
+60,Yellow,Hobnob,Left,Yes,Libra,Bird,Center-Right,No,Extrovert
+54,Black,Jammie Dodger,Right,Yes,Gemini,Dog,Center,No,Ambivert
+55,Black,Ginger Nut,Left,Yes,Scorpio,Rabbit,Right,Yes,Introvert
+24,Green,Jammie Dodger,Right,No,Scorpio,Dog,Right,Yes,Extrovert
+34,Blue,Jammie Dodger,Left,Yes,Taurus,Rabbit,Center-Right,No,Extrovert
+54,Purple,Nice,Right,No,Aries,Bird,Right,Yes,Introvert
+43,Black,Ginger Nut,Right,Yes,Pisces,Bird,Right,Yes,Introvert
+23,Orange,Ginger Nut,Right,No,Taurus,Rabbit,Left,Yes,Ambivert
+27,White,Ginger Nut,Left,No,Virgo,Fish,Center,Yes,Introvert
+78,White,Digestive,Right,No,Capricorn,Bird,Right,No,Introvert
+70,Brown,Hobnob,Left,Yes,Virgo,Fish,Center-Right,No,Introvert
+51,Purple,Shortbread,Left,No,Cancer,Fish,Center,No,Introvert
+70,Purple,Custard Cream,Right,No,Scorpio,Bird,Left,No,Ambivert
+73,Brown,Ginger Nut,Left,Yes,Virgo,Fish,Right,Yes,Introvert
+74,White,Digestive,Left,Yes,Aquarius,Cat,Center-Left,No,Introvert
+54,Red,Rich Tea,Left,No,Gemini,Rabbit,Center-Right,Yes,Introvert
+42,Orange,Ginger Nut,Left,Yes,Scorpio,Rabbit,Center,No,Extrovert
+54,Black,Hobnob,Right,No,Leo,Bird,Left,No,Introvert
+43,Red,Rich Tea,Left,No,Sagittarius,Rabbit,Center-Right,No,Introvert
+53,Purple,Custard Cream,Right,Yes,Gemini,Dog,Right,Yes,Extrovert
+39,Green,Custard Cream,Left,No,Pisces,Cat,Center,Yes,Introvert
+56,Purple,Ginger Nut,Left,Yes,Gemini,Rabbit,Center-Left,Yes,Extrovert
+31,White,Rich Tea,Right,No,Libra,Bird,Center-Left,Yes,Introvert
+57,Yellow,Custard Cream,Right,No,Scorpio,Cat,Center-Right,Yes,Ambivert
+54,Green,Bourbon,Left,No,Scorpio,Fish,Center-Left,Yes,Introvert
+66,Pink,Bourbon,Left,No,Libra,Bird,Center-Left,No,Ambivert
+45,Pink,Jammie Dodger,Right,Yes,Scorpio,Bird,Center,Yes,Extrovert
+78,Orange,Digestive,Right,No,Cancer,Dog,Center-Right,No,Introvert
+20,Green,Garibaldi,Left,No,Scorpio,Bird,Center-Left,No,Introvert
+33,White,Jammie Dodger,Left,No,Virgo,Rabbit,Center-Right,Yes,Extrovert
+60,Purple,Jammie Dodger,Right,No,Capricorn,Fish,Center,Yes,Ambivert
+79,Pink,Nice,Right,Yes,Taurus,Bird,Center,Yes,Extrovert
+49,Yellow,Hobnob,Right,No,Sagittarius,Rabbit,Right,Yes,Ambivert
+51,Blue,Shortbread,Right,No,Sagittarius,Fish,Left,No,Introvert
+67,Red,Hobnob,Left,Yes,Scorpio,Cat,Left,Yes,Extrovert
+44,Blue,Jammie Dodger,Right,No,Libra,Bird,Center-Right,Yes,Ambivert
+28,Green,Bourbon,Left,Yes,Gemini,Fish,Center-Left,No,Introvert
+53,Green,Ginger Nut,Left,Yes,Scorpio,Rabbit,Center,No,Ambivert
+77,Yellow,Digestive,Left,No,Aquarius,Cat,Right,No,Introvert
+23,Purple,Garibaldi,Left,Yes,Taurus,Bird,Center-Right,No,Extrovert
+73,Orange,Ginger Nut,Right,Yes,Scorpio,Dog,Center-Right,No,Extrovert
+50,Brown,Bourbon,Left,Yes,Taurus,Rabbit,Center-Left,No,Introvert
+23,Brown,Nice,Right,Yes,Virgo,Cat,Center-Left,No,Introvert
+53,Red,Rich Tea,Left,No,Pisces,Rabbit,Center,Yes,Introvert
+65,Brown,Shortbread,Left,No,Scorpio,Rabbit,Center-Left,No,Introvert
+50,Orange,Rich Tea,Right,No,Scorpio,Rabbit,Center-Right,Yes,Introvert
+36,White,Custard Cream,Right,Yes,Aquarius,Fish,Center-Left,Yes,Ambivert
+30,Red,Rich Tea,Right,Yes,Libra,Fish,Center,Yes,Introvert
+45,Red,Ginger Nut,Right,No,Virgo,Cat,Center,No,Introvert
+23,Black,Ginger Nut,Right,No,Sagittarius,Fish,Left,No,Introvert
+34,White,Jammie Dodger,Right,No,Aquarius,Dog,Center-Right,No,Ambivert
+26,Black,Jammie Dodger,Left,No,Cancer,Fish,Center-Left,Yes,Introvert
+57,Brown,Digestive,Left,Yes,Pisces,Fish,Left,Yes,Introvert
+50,Brown,Digestive,Right,No,Libra,Fish,Center-Right,Yes,Introvert
+53,Purple,Jammie Dodger,Right,Yes,Gemini,Cat,Right,No,Extrovert
+56,Orange,Bourbon,Left,Yes,Libra,Dog,Center-Left,Yes,Extrovert
+76,Brown,Bourbon,Left,No,Taurus,Rabbit,Center,No,Introvert
+41,Black,Hobnob,Left,Yes,Taurus,Dog,Right,Yes,Introvert
+55,Yellow,Hobnob,Right,No,Aquarius,Cat,Left,Yes,Ambivert
+29,Black,Rich Tea,Right,No,Aries,Fish,Right,No,Introvert
+42,White,Jammie Dodger,Left,No,Virgo,Cat,Right,Yes,Ambivert
+74,Black,Jammie Dodger,Right,Yes,Libra,Cat,Center-Right,Yes,Ambivert
+37,Orange,Bourbon,Left,No,Aries,Rabbit,Center-Left,Yes,Ambivert
+55,Yellow,Custard Cream,Left,No,Libra,Cat,Center-Right,No,Ambivert
+55,Yellow,Ginger Nut,Right,No,Libra,Bird,Center-Right,No,Ambivert
+78,Black,Hobnob,Left,No,Pisces,Bird,Center-Left,No,Introvert
+72,Brown,Rich Tea,Right,No,Gemini,Fish,Left,Yes,Introvert
+44,Blue,Hobnob,Left,No,Cancer,Dog,Center,No,Introvert
+71,Green,Nice,Left,Yes,Cancer,Cat,Center-Right,Yes,Introvert
+66,White,Custard Cream,Left,Yes,Libra,Fish,Left,Yes,Ambivert
+49,Black,Rich Tea,Right,Yes,Leo,Fish,Right,No,Introvert
+37,Pink,Nice,Left,No,Pisces,Cat,Center-Left,No,Introvert
+41,Green,Garibaldi,Right,No,Taurus,Fish,Center-Left,No,Introvert
+63,Yellow,Ginger Nut,Left,No,Leo,Bird,Center,Yes,Ambivert
+39,Black,Digestive,Right,Yes,Virgo,Dog,Center-Left,No,Introvert
+79,Orange,Shortbread,Right,Yes,Leo,Dog,Right,Yes,Extrovert
+74,Green,Shortbread,Right,Yes,Gemini,Cat,Center-Left,No,Ambivert
+35,Yellow,Ginger Nut,Left,No,Taurus,Bird,Left,Yes,Ambivert
+37,Purple,Rich Tea,Right,Yes,Aries,Rabbit,Left,No,Introvert
+61,Blue,Nice,Right,Yes,Aries,Cat,Center,Yes,Introvert
+26,Black,Custard Cream,Right,No,Leo,Dog,Left,Yes,Introvert
+37,Purple,Bourbon,Left,Yes,Libra,Dog,Center,Yes,Extrovert
+63,White,Ginger Nut,Left,Yes,Pisces,Bird,Left,No,Ambivert
+61,Brown,Ginger Nut,Right,No,Aries,Fish,Left,Yes,Introvert
+57,Yellow,Garibaldi,Left,No,Scorpio,Fish,Left,Yes,Ambivert
+39,Red,Shortbread,Left,Yes,Scorpio,Cat,Right,No,Ambivert
+60,Black,Rich Tea,Right,Yes,Pisces,Rabbit,Center-Left,No,Introvert
+58,Pink,Custard Cream,Left,Yes,Aquarius,Dog,Right,No,Extrovert
+70,Blue,Nice,Left,No,Aquarius,Rabbit,Center,No,Introvert
+56,Pink,Bourbon,Left,No,Leo,Fish,Center-Right,No,Introvert
+38,Blue,Custard Cream,Left,Yes,Libra,Cat,Center-Left,Yes,Ambivert
+79,Brown,Digestive,Left,No,Leo,Dog,Right,Yes,Introvert
+38,Pink,Ginger Nut,Left,Yes,Capricorn,Dog,Right,Yes,Extrovert
+44,Red,Shortbread,Right,Yes,Libra,Rabbit,Center-Right,No,Ambivert
+56,Blue,Ginger Nut,Right,Yes,Virgo,Bird,Right,Yes,Ambivert
+66,Purple,Shortbread,Left,Yes,Gemini,Cat,Center-Right,No,Ambivert
+24,Yellow,Rich Tea,Right,Yes,Gemini,Fish,Center-Left,Yes,Introvert
+36,Black,Ginger Nut,Left,No,Aries,Dog,Left,Yes,Introvert
+47,White,Rich Tea,Left,Yes,Scorpio,Dog,Center-Left,Yes,Introvert
+29,Purple,Hobnob,Left,Yes,Sagittarius,Bird,Right,Yes,Extrovert
+40,Blue,Garibaldi,Right,Yes,Libra,Rabbit,Center,No,Ambivert
+80,Pink,Garibaldi,Left,Yes,Aries,Dog,Center-Right,No,Extrovert
+69,Green,Digestive,Left,Yes,Taurus,Bird,Right,Yes,Ambivert
+19,Orange,Jammie Dodger,Right,No,Pisces,Dog,Center-Right,Yes,Extrovert
+42,Black,Ginger Nut,Left,No,Virgo,Cat,Left,Yes,Introvert
+77,Yellow,Hobnob,Left,Yes,Capricorn,Cat,Center-Right,Yes,Extrovert
+76,Yellow,Digestive,Left,Yes,Gemini,Bird,Center,No,Extrovert
+23,Red,Digestive,Left,Yes,Taurus,Fish,Center-Left,Yes,Introvert
+56,Orange,Rich Tea,Left,Yes,Aquarius,Fish,Center-Left,No,Introvert
+62,Purple,Jammie Dodger,Right,No,Leo,Rabbit,Left,No,Ambivert
+46,Green,Ginger Nut,Right,Yes,Cancer,Bird,Center,No,Ambivert
+77,Blue,Digestive,Left,No,Taurus,Fish,Center-Right,No,Introvert
+58,Red,Custard Cream,Right,Yes,Gemini,Bird,Center-Left,No,Extrovert
+65,Blue,Shortbread,Right,No,Leo,Bird,Center-Right,Yes,Introvert
+65,Orange,Shortbread,Right,No,Gemini,Fish,Center-Left,No,Introvert
+43,Red,Ginger Nut,Right,Yes,Pisces,Dog,Left,No,Extrovert
+67,Orange,Nice,Right,Yes,Taurus,Fish,Center-Left,No,Introvert
+78,Brown,Garibaldi,Left,Yes,Capricorn,Fish,Right,No,Introvert
+66,Red,Jammie Dodger,Left,No,Sagittarius,Bird,Left,No,Ambivert
+65,White,Custard Cream,Left,No,Pisces,Bird,Right,Yes,Introvert
+20,Pink,Ginger Nut,Right,Yes,Libra,Cat,Center-Right,Yes,Extrovert
+27,Brown,Nice,Left,No,Leo,Fish,Center,Yes,Introvert
+38,Brown,Jammie Dodger,Left,No,Sagittarius,Bird,Center,Yes,Ambivert
+60,Green,Shortbread,Left,Yes,Aquarius,Dog,Center,No,Ambivert
+29,Black,Custard Cream,Right,No,Sagittarius,Dog,Right,No,Introvert
+67,Yellow,Rich Tea,Right,Yes,Pisces,Cat,Center-Left,Yes,Ambivert
+40,Yellow,Shortbread,Right,No,Libra,Fish,Center,Yes,Introvert
+41,Pink,Jammie Dodger,Right,Yes,Scorpio,Rabbit,Center-Left,No,Extrovert
+48,Orange,Digestive,Left,No,Taurus,Rabbit,Right,Yes,Introvert
+56,Green,Hobnob,Right,Yes,Leo,Dog,Right,Yes,Extrovert
+54,Red,Digestive,Right,No,Pisces,Dog,Center,No,Introvert
+79,Pink,Bourbon,Right,No,Libra,Bird,Center-Right,No,Ambivert
+73,Brown,Hobnob,Left,No,Sagittarius,Cat,Center-Left,No,Introvert
+32,Blue,Rich Tea,Right,Yes,Capricorn,Fish,Center-Right,No,Introvert
+51,Pink,Rich Tea,Left,No,Leo,Rabbit,Center-Right,No,Introvert
+26,Purple,Bourbon,Left,No,Cancer,Cat,Right,Yes,Introvert
+36,Blue,Digestive,Right,Yes,Capricorn,Dog,Center,Yes,Ambivert
+60,Yellow,Rich Tea,Left,No,Capricorn,Fish,Center-Right,Yes,Introvert
+80,Red,Nice,Right,No,Libra,Cat,Left,Yes,Introvert
+30,Black,Hobnob,Right,No,Virgo,Cat,Left,Yes,Introvert
+35,Blue,Rich Tea,Right,No,Sagittarius,Fish,Center,No,Introvert
+61,Black,Jammie Dodger,Right,No,Pisces,Bird,Center-Left,Yes,Introvert
+66,Purple,Hobnob,Right,No,Cancer,Cat,Right,No,Introvert
+53,Orange,Jammie Dodger,Left,Yes,Aries,Dog,Center-Right,No,Extrovert
+47,Red,Rich Tea,Left,No,Libra,Dog,Center-Left,Yes,Introvert
+49,Brown,Garibaldi,Left,Yes,Leo,Rabbit,Center,Yes,Extrovert
+60,Pink,Hobnob,Left,Yes,Libra,Bird,Right,Yes,Extrovert
+67,Yellow,Rich Tea,Right,Yes,Libra,Cat,Center-Left,Yes,Introvert
+47,Red,Custard Cream,Right,Yes,Pisces,Bird,Center-Right,No,Extrovert
+39,Green,Rich Tea,Right,Yes,Aries,Bird,Left,Yes,Introvert
+25,Purple,Ginger Nut,Left,Yes,Sagittarius,Fish,Center,Yes,Ambivert
+34,Black,Nice,Left,No,Gemini,Rabbit,Center,Yes,Introvert
+24,Green,Shortbread,Right,Yes,Gemini,Cat,Left,No,Ambivert
+50,Brown,Garibaldi,Right,Yes,Capricorn,Dog,Right,No,Ambivert
+56,Yellow,Ginger Nut,Right,Yes,Pisces,Dog,Center-Right,Yes,Extrovert
+47,Green,Bourbon,Right,No,Gemini,Cat,Center,No,Introvert
+53,White,Nice,Right,Yes,Sagittarius,Cat,Left,Yes,Introvert
+79,Black,Hobnob,Left,No,Taurus,Dog,Center-Right,Yes,Introvert
+51,Blue,Ginger Nut,Right,Yes,Capricorn,Cat,Center-Left,Yes,Ambivert
+67,Purple,Rich Tea,Left,Yes,Cancer,Rabbit,Right,Yes,Ambivert
+61,Pink,Hobnob,Left,Yes,Aries,Bird,Center,No,Extrovert
+67,Yellow,Hobnob,Right,No,Leo,Rabbit,Left,Yes,Ambivert
+72,White,Jammie Dodger,Left,Yes,Pisces,Bird,Center-Right,No,Extrovert
+69,Brown,Shortbread,Right,Yes,Aquarius,Fish,Center-Right,Yes,Introvert
+47,Yellow,Hobnob,Right,Yes,Libra,Fish,Right,No,Ambivert
+53,Brown,Garibaldi,Right,No,Leo,Rabbit,Right,Yes,Introvert
+40,Brown,Rich Tea,Left,Yes,Gemini,Rabbit,Left,No,Introvert
+73,Brown,Jammie Dodger,Left,No,Virgo,Rabbit,Center-Left,No,Introvert
+48,Blue,Jammie Dodger,Right,No,Leo,Bird,Left,No,Introvert
+26,Blue,Rich Tea,Right,No,Aquarius,Dog,Center-Left,Yes,Introvert
+71,White,Ginger Nut,Right,No,Virgo,Bird,Left,No,Introvert
+24,Purple,Shortbread,Right,Yes,Scorpio,Bird,Center-Right,No,Extrovert
+23,Yellow,Nice,Left,No,Aries,Rabbit,Center-Right,Yes,Introvert
+66,White,Garibaldi,Right,No,Gemini,Bird,Center,Yes,Ambivert
+42,Blue,Jammie Dodger,Right,No,Aries,Fish,Right,Yes,Introvert
+55,Purple,Hobnob,Right,Yes,Scorpio,Cat,Center-Right,Yes,Extrovert
+25,Pink,Jammie Dodger,Left,Yes,Scorpio,Rabbit,Left,Yes,Extrovert
+32,Black,Garibaldi,Left,No,Pisces,Cat,Left,Yes,Introvert
+72,Green,Digestive,Left,Yes,Gemini,Rabbit,Center,Yes,Ambivert
+79,Orange,Hobnob,Left,No,Aries,Bird,Center,Yes,Ambivert
+33,Orange,Rich Tea,Right,Yes,Sagittarius,Dog,Center-Right,No,Ambivert
+67,Orange,Shortbread,Left,Yes,Sagittarius,Cat,Center,No,Ambivert
+57,Blue,Garibaldi,Right,Yes,Gemini,Cat,Left,No,Ambivert
+49,Orange,Jammie Dodger,Left,Yes,Taurus,Cat,Left,No,Extrovert
+57,Yellow,Ginger Nut,Right,Yes,Aquarius,Rabbit,Center,Yes,Extrovert
+58,White,Jammie Dodger,Left,No,Capricorn,Bird,Center-Left,Yes,Extrovert
+63,Yellow,Hobnob,Left,No,Aquarius,Dog,Center-Left,Yes,Extrovert
+21,Black,Custard Cream,Left,No,Leo,Fish,Right,Yes,Introvert
+76,Pink,Digestive,Left,No,Scorpio,Fish,Right,Yes,Introvert
+21,Black,Ginger Nut,Left,No,Virgo,Fish,Right,No,Introvert
+44,Orange,Garibaldi,Right,No,Virgo,Cat,Left,Yes,Ambivert
+60,Red,Jammie Dodger,Left,Yes,Sagittarius,Dog,Left,Yes,Extrovert
+46,Black,Garibaldi,Right,No,Aries,Dog,Center-Right,No,Introvert
+58,Green,Digestive,Left,Yes,Sagittarius,Fish,Center-Left,Yes,Introvert
+40,Blue,Garibaldi,Right,No,Gemini,Rabbit,Center-Left,No,Introvert
+39,Blue,Jammie Dodger,Left,Yes,Pisces,Dog,Right,No,Extrovert
+60,Yellow,Custard Cream,Left,No,Gemini,Cat,Center-Left,No,Ambivert
+63,White,Digestive,Right,No,Sagittarius,Rabbit,Center-Right,Yes,Introvert
+34,Brown,Ginger Nut,Left,Yes,Aries,Dog,Center-Left,No,Ambivert
+47,Yellow,Hobnob,Right,No,Cancer,Dog,Right,Yes,Extrovert
+71,Green,Nice,Left,No,Aries,Fish,Center-Right,Yes,Introvert
+61,Green,Hobnob,Left,Yes,Virgo,Cat,Left,No,Ambivert
+30,Yellow,Jammie Dodger,Right,Yes,Leo,Dog,Left,Yes,Extrovert
+28,Black,Rich Tea,Right,Yes,Libra,Fish,Left,Yes,Introvert
+63,Yellow,Ginger Nut,Left,No,Taurus,Cat,Left,Yes,Ambivert
+57,Red,Digestive,Left,Yes,Pisces,Rabbit,Center-Left,Yes,Ambivert
+19,Yellow,Nice,Left,No,Pisces,Cat,Right,No,Introvert
+20,Brown,Ginger Nut,Left,Yes,Aries,Dog,Center-Left,No,Ambivert
+56,Purple,Garibaldi,Left,No,Scorpio,Rabbit,Right,No,Ambivert
+73,White,Digestive,Left,No,Leo,Cat,Center-Right,Yes,Introvert
+24,Red,Hobnob,Left,Yes,Leo,Rabbit,Left,Yes,Extrovert
+25,Black,Nice,Left,No,Capricorn,Cat,Center,Yes,Introvert
+52,Black,Bourbon,Left,No,Virgo,Fish,Right,No,Introvert
+18,Blue,Garibaldi,Right,Yes,Gemini,Bird,Right,Yes,Extrovert
+59,Brown,Bourbon,Right,No,Libra,Fish,Center-Left,Yes,Introvert
+29,Pink,Garibaldi,Right,Yes,Scorpio,Fish,Center,No,Extrovert
+36,White,Nice,Right,No,Cancer,Bird,Center-Left,Yes,Introvert
+38,Black,Nice,Right,Yes,Pisces,Rabbit,Center-Right,Yes,Introvert
+76,Purple,Custard Cream,Left,Yes,Gemini,Rabbit,Left,Yes,Extrovert
+67,Brown,Hobnob,Right,No,Aquarius,Dog,Left,No,Introvert
+27,Green,Digestive,Left,No,Taurus,Rabbit,Left,No,Introvert
+76,Black,Bourbon,Right,Yes,Gemini,Cat,Center,Yes,Introvert
+54,Blue,Ginger Nut,Right,No,Cancer,Bird,Center-Right,Yes,Introvert
+40,Black,Digestive,Right,Yes,Aquarius,Fish,Center-Left,No,Introvert
+27,Black,Bourbon,Left,No,Leo,Bird,Left,No,Introvert
+53,Yellow,Custard Cream,Right,Yes,Taurus,Bird,Center,No,Extrovert
+72,Pink,Nice,Right,Yes,Aries,Cat,Left,Yes,Ambivert
+64,Green,Rich Tea,Right,Yes,Aquarius,Cat,Right,Yes,Introvert
+43,White,Jammie Dodger,Right,Yes,Libra,Rabbit,Center,Yes,Extrovert
+73,Pink,Bourbon,Left,Yes,Virgo,Rabbit,Center-Left,Yes,Extrovert
+73,Black,Custard Cream,Left,Yes,Capricorn,Dog,Center-Right,Yes,Introvert
+19,Brown,Shortbread,Right,Yes,Virgo,Fish,Center-Right,Yes,Introvert
+27,Black,Custard Cream,Left,No,Virgo,Cat,Center-Right,No,Introvert
+67,Blue,Jammie Dodger,Left,Yes,Gemini,Cat,Right,Yes,Extrovert
+25,Red,Ginger Nut,Left,Yes,Sagittarius,Rabbit,Right,No,Extrovert
+23,Black,Jammie Dodger,Left,No,Libra,Cat,Center-Left,No,Introvert
+20,Green,Custard Cream,Right,Yes,Taurus,Rabbit,Left,Yes,Extrovert
+26,Brown,Rich Tea,Right,Yes,Capricorn,Dog,Right,Yes,Introvert
+72,Brown,Nice,Right,Yes,Pisces,Fish,Center-Left,Yes,Introvert
+54,Pink,Hobnob,Left,No,Cancer,Fish,Center-Left,Yes,Ambivert
+30,White,Jammie Dodger,Left,No,Leo,Rabbit,Center-Left,Yes,Ambivert
+44,Pink,Ginger Nut,Left,Yes,Taurus,Fish,Left,Yes,Extrovert
+54,Orange,Shortbread,Left,No,Gemini,Fish,Center-Right,No,Introvert
+40,Blue,Ginger Nut,Right,Yes,Scorpio,Cat,Center-Right,No,Ambivert
+80,Red,Ginger Nut,Left,No,Virgo,Rabbit,Right,Yes,Ambivert
+29,White,Digestive,Left,No,Virgo,Rabbit,Center,No,Introvert
+31,Brown,Hobnob,Left,No,Cancer,Dog,Center,Yes,Introvert
+46,Yellow,Custard Cream,Left,No,Cancer,Rabbit,Center-Right,Yes,Extrovert
+33,White,Shortbread,Right,No,Taurus,Bird,Center-Left,No,Introvert
+39,Black,Digestive,Left,No,Aries,Dog,Center-Right,No,Introvert
+59,Pink,Ginger Nut,Right,Yes,Gemini,Cat,Left,Yes,Extrovert
+71,Brown,Garibaldi,Right,Yes,Aries,Rabbit,Center-Right,No,Ambivert
+60,Green,Shortbread,Left,No,Sagittarius,Dog,Right,No,Introvert
+69,Red,Rich Tea,Right,No,Scorpio,Dog,Center-Right,Yes,Introvert
+45,Red,Rich Tea,Left,No,Aquarius,Fish,Center-Left,No,Introvert
+50,Purple,Ginger Nut,Right,Yes,Aquarius,Fish,Left,Yes,Ambivert
+28,Yellow,Custard Cream,Right,No,Pisces,Rabbit,Center-Right,Yes,Extrovert
+56,Yellow,Shortbread,Left,Yes,Sagittarius,Dog,Center,Yes,Extrovert
+71,Pink,Ginger Nut,Left,Yes,Libra,Bird,Center-Left,No,Extrovert
+50,White,Digestive,Left,No,Taurus,Cat,Right,No,Introvert
+32,Pink,Digestive,Left,No,Taurus,Rabbit,Right,Yes,Ambivert
+31,Blue,Ginger Nut,Right,No,Libra,Dog,Center,No,Introvert
+44,Black,Digestive,Right,Yes,Leo,Dog,Center-Left,No,Introvert
+66,Purple,Ginger Nut,Left,Yes,Scorpio,Cat,Center-Left,No,Extrovert
+74,Orange,Hobnob,Left,No,Sagittarius,Fish,Center-Right,No,Introvert
+75,Yellow,Garibaldi,Left,Yes,Libra,Fish,Center-Left,No,Extrovert
+74,Yellow,Bourbon,Right,Yes,Virgo,Fish,Center,Yes,Ambivert
+44,White,Rich Tea,Right,Yes,Taurus,Dog,Right,No,Introvert
+40,Black,Garibaldi,Left,No,Sagittarius,Rabbit,Center,Yes,Introvert
+25,Pink,Rich Tea,Left,No,Virgo,Dog,Center-Right,No,Introvert
+27,White,Rich Tea,Right,Yes,Pisces,Cat,Right,No,Introvert
+30,Green,Shortbread,Left,No,Cancer,Cat,Center-Right,No,Introvert
+29,Brown,Ginger Nut,Right,Yes,Cancer,Dog,Center,No,Ambivert
+35,Orange,Rich Tea,Right,No,Taurus,Rabbit,Center-Left,No,Introvert
+67,Green,Nice,Left,No,Gemini,Bird,Right,No,Introvert
+63,Black,Nice,Right,Yes,Pisces,Fish,Center-Right,Yes,Introvert
+68,Black,Jammie Dodger,Left,No,Libra,Dog,Center-Right,Yes,Introvert
+63,Pink,Digestive,Left,No,Capricorn,Cat,Left,Yes,Ambivert
+20,Yellow,Custard Cream,Right,Yes,Taurus,Cat,Center-Right,Yes,Extrovert
+23,Yellow,Garibaldi,Right,Yes,Sagittarius,Fish,Left,Yes,Extrovert
+27,Black,Ginger Nut,Left,No,Libra,Cat,Left,Yes,Introvert
+30,Yellow,Custard Cream,Left,Yes,Aquarius,Rabbit,Center,Yes,Extrovert
+47,Pink,Garibaldi,Left,Yes,Virgo,Bird,Center-Right,No,Extrovert
+59,Blue,Custard Cream,Right,No,Virgo,Fish,Center-Right,Yes,Introvert
+77,Brown,Jammie Dodger,Left,Yes,Aries,Fish,Right,Yes,Ambivert
+54,Green,Bourbon,Left,Yes,Taurus,Rabbit,Center-Left,No,Ambivert
+72,Blue,Hobnob,Left,No,Pisces,Cat,Left,Yes,Introvert
+61,Green,Ginger Nut,Right,Yes,Taurus,Fish,Center-Left,Yes,Ambivert
+55,Orange,Custard Cream,Left,No,Gemini,Dog,Center-Right,No,Ambivert
+79,Black,Garibaldi,Right,Yes,Leo,Dog,Center,Yes,Ambivert
+19,Yellow,Hobnob,Right,No,Cancer,Fish,Center-Left,Yes,Introvert
+80,White,Shortbread,Left,No,Virgo,Dog,Center-Left,Yes,Introvert
+23,Blue,Rich Tea,Right,No,Leo,Dog,Right,No,Introvert
+52,Yellow,Rich Tea,Right,No,Aquarius,Rabbit,Center-Right,No,Introvert
+47,Yellow,Rich Tea,Right,No,Aries,Fish,Center,Yes,Introvert
+70,Blue,Hobnob,Right,Yes,Taurus,Dog,Left,Yes,Extrovert
+63,Blue,Custard Cream,Right,Yes,Sagittarius,Rabbit,Center-Left,Yes,Ambivert
+29,Red,Nice,Left,Yes,Capricorn,Bird,Left,Yes,Ambivert
+77,Orange,Rich Tea,Right,No,Leo,Rabbit,Right,Yes,Introvert
+44,Yellow,Nice,Right,Yes,Virgo,Dog,Center-Right,No,Extrovert
+60,Green,Custard Cream,Left,Yes,Virgo,Bird,Center-Left,Yes,Extrovert
+75,Yellow,Jammie Dodger,Right,No,Cancer,Fish,Center-Left,No,Ambivert
+73,White,Bourbon,Right,Yes,Libra,Bird,Center-Right,No,Ambivert
+19,Purple,Shortbread,Left,No,Pisces,Dog,Right,Yes,Ambivert
+40,Orange,Rich Tea,Right,No,Taurus,Fish,Center-Right,Yes,Introvert
+52,Purple,Rich Tea,Right,Yes,Sagittarius,Cat,Center-Right,No,Introvert
+52,Red,Bourbon,Left,No,Cancer,Rabbit,Center-Left,Yes,Introvert
+35,Black,Bourbon,Left,No,Sagittarius,Rabbit,Center-Right,Yes,Introvert
+29,Brown,Hobnob,Left,Yes,Libra,Fish,Right,No,Introvert
+69,Purple,Jammie Dodger,Right,No,Taurus,Rabbit,Center-Left,No,Extrovert
+55,Green,Ginger Nut,Right,No,Leo,Rabbit,Left,No,Introvert
+19,Green,Hobnob,Right,No,Capricorn,Dog,Center-Left,No,Introvert
+65,Black,Hobnob,Left,Yes,Leo,Fish,Center-Right,Yes,Introvert
+72,Purple,Rich Tea,Left,No,Virgo,Bird,Center-Right,Yes,Introvert
+30,Orange,Jammie Dodger,Left,No,Sagittarius,Cat,Right,No,Ambivert
+20,Purple,Ginger Nut,Right,No,Scorpio,Fish,Center-Right,Yes,Introvert
+77,Red,Digestive,Right,Yes,Libra,Rabbit,Right,No,Ambivert
+66,Black,Custard Cream,Right,No,Pisces,Dog,Left,No,Introvert
+51,Orange,Ginger Nut,Left,Yes,Leo,Bird,Right,Yes,Extrovert
+53,Black,Digestive,Left,Yes,Leo,Bird,Center,Yes,Introvert
+49,Purple,Shortbread,Right,Yes,Pisces,Bird,Left,Yes,Extrovert
+41,Green,Shortbread,Left,No,Taurus,Fish,Left,Yes,Introvert
+28,Brown,Jammie Dodger,Right,Yes,Taurus,Cat,Center,Yes,Extrovert
+77,Yellow,Garibaldi,Right,No,Libra,Rabbit,Center-Right,Yes,Ambivert
+68,Pink,Shortbread,Left,No,Cancer,Cat,Center-Right,No,Ambivert
+46,Green,Shortbread,Right,Yes,Cancer,Bird,Center-Right,No,Ambivert
+55,Pink,Jammie Dodger,Left,No,Pisces,Dog,Center-Right,Yes,Extrovert
+63,Red,Nice,Left,No,Virgo,Rabbit,Center,No,Introvert
+35,Black,Custard Cream,Right,Yes,Leo,Dog,Center,Yes,Ambivert
+34,Blue,Rich Tea,Left,No,Sagittarius,Fish,Left,No,Introvert
+23,Green,Jammie Dodger,Left,Yes,Pisces,Rabbit,Center,Yes,Extrovert
+61,Blue,Shortbread,Right,No,Gemini,Rabbit,Center,No,Introvert
+47,Black,Shortbread,Left,Yes,Aquarius,Bird,Left,Yes,Introvert
+28,Black,Rich Tea,Right,No,Sagittarius,Dog,Center,Yes,Introvert
+63,Red,Rich Tea,Right,No,Sagittarius,Fish,Center-Left,No,Introvert
+43,Pink,Hobnob,Right,Yes,Libra,Fish,Right,Yes,Extrovert
+40,Black,Hobnob,Right,No,Gemini,Rabbit,Center-Right,No,Introvert
+47,Pink,Digestive,Left,Yes,Taurus,Fish,Left,Yes,Ambivert
+47,Pink,Jammie Dodger,Left,No,Libra,Fish,Center,Yes,Extrovert
+19,Blue,Nice,Right,No,Taurus,Cat,Left,Yes,Introvert
+71,Red,Hobnob,Right,Yes,Gemini,Cat,Center-Right,No,Extrovert
+56,White,Shortbread,Left,Yes,Aries,Bird,Center-Right,No,Ambivert
+23,Red,Garibaldi,Left,Yes,Libra,Rabbit,Center-Right,No,Extrovert
+36,Orange,Shortbread,Left,No,Scorpio,Cat,Right,No,Introvert
+49,Green,Nice,Right,No,Aries,Fish,Center-Left,No,Introvert
+38,Brown,Rich Tea,Right,Yes,Libra,Dog,Center,No,Introvert
+23,Orange,Custard Cream,Left,Yes,Gemini,Bird,Left,No,Extrovert
+64,Purple,Rich Tea,Left,No,Libra,Bird,Center-Right,Yes,Introvert
+26,Red,Custard Cream,Right,Yes,Sagittarius,Dog,Left,Yes,Extrovert
+41,Black,Jammie Dodger,Left,No,Virgo,Cat,Right,Yes,Introvert
+27,Blue,Garibaldi,Left,Yes,Aquarius,Dog,Left,No,Extrovert
+47,White,Digestive,Right,Yes,Capricorn,Cat,Center-Right,No,Introvert
+73,White,Rich Tea,Left,No,Aries,Bird,Right,Yes,Introvert
+80,Orange,Custard Cream,Left,No,Aquarius,Rabbit,Left,No,Ambivert
+46,Orange,Hobnob,Left,Yes,Aquarius,Fish,Right,Yes,Extrovert
+40,Green,Ginger Nut,Left,No,Sagittarius,Bird,Center,No,Introvert
+80,Green,Garibaldi,Right,Yes,Pisces,Rabbit,Center-Left,No,Extrovert
+52,Blue,Custard Cream,Right,No,Cancer,Bird,Center-Left,No,Introvert
+45,White,Hobnob,Left,Yes,Pisces,Cat,Center-Left,No,Ambivert
+59,Blue,Custard Cream,Right,Yes,Leo,Rabbit,Center,Yes,Ambivert
+56,Black,Custard Cream,Right,Yes,Virgo,Bird,Right,Yes,Introvert
+21,Blue,Hobnob,Right,Yes,Aries,Dog,Center,Yes,Extrovert
+33,Black,Nice,Right,No,Gemini,Rabbit,Center-Left,No,Introvert
+69,Black,Shortbread,Left,Yes,Leo,Dog,Center-Right,No,Introvert
+69,Blue,Digestive,Right,No,Leo,Cat,Right,No,Introvert
+62,Green,Custard Cream,Left,Yes,Scorpio,Dog,Center,Yes,Extrovert
+78,White,Bourbon,Right,Yes,Aries,Fish,Right,Yes,Introvert
+74,Black,Jammie Dodger,Right,No,Sagittarius,Rabbit,Center-Left,Yes,Introvert
+75,Brown,Hobnob,Left,No,Taurus,Cat,Center,Yes,Introvert
+22,Yellow,Ginger Nut,Right,No,Taurus,Rabbit,Center-Right,No,Ambivert
+45,Black,Custard Cream,Left,No,Sagittarius,Fish,Center-Left,No,Introvert
+55,Brown,Rich Tea,Left,Yes,Virgo,Dog,Center-Right,No,Introvert
+46,Orange,Garibaldi,Right,No,Virgo,Cat,Left,No,Ambivert
+65,Pink,Jammie Dodger,Right,Yes,Cancer,Cat,Right,No,Extrovert
+78,Yellow,Ginger Nut,Left,Yes,Libra,Bird,Left,Yes,Extrovert
+57,Orange,Bourbon,Left,No,Pisces,Dog,Center,No,Ambivert
+21,Purple,Digestive,Left,Yes,Libra,Rabbit,Right,Yes,Extrovert
+59,Purple,Garibaldi,Left,No,Aries,Cat,Right,No,Ambivert
+64,Red,Ginger Nut,Right,No,Cancer,Rabbit,Center-Right,Yes,Ambivert
+55,Black,Ginger Nut,Left,No,Aries,Rabbit,Right,Yes,Introvert
+76,Pink,Hobnob,Left,No,Sagittarius,Bird,Center-Left,No,Ambivert
+42,White,Custard Cream,Left,No,Leo,Bird,Left,No,Introvert
+24,Yellow,Shortbread,Right,No,Libra,Bird,Center-Left,Yes,Ambivert
+60,Red,Garibaldi,Left,Yes,Libra,Fish,Left,No,Ambivert
+56,Pink,Garibaldi,Left,No,Taurus,Fish,Center-Right,No,Ambivert
+72,Blue,Bourbon,Right,Yes,Virgo,Rabbit,Center-Left,No,Ambivert
+79,Pink,Digestive,Left,No,Gemini,Fish,Center-Left,Yes,Introvert
+30,Black,Shortbread,Left,No,Virgo,Fish,Right,No,Introvert
+69,Brown,Shortbread,Left,No,Gemini,Rabbit,Center,No,Introvert
+43,White,Ginger Nut,Right,Yes,Gemini,Bird,Center,No,Ambivert
+42,Purple,Ginger Nut,Left,Yes,Libra,Dog,Center,No,Extrovert
+76,Green,Shortbread,Right,Yes,Pisces,Cat,Right,Yes,Ambivert
+69,Blue,Bourbon,Right,Yes,Virgo,Cat,Center-Right,No,Ambivert
+34,Orange,Bourbon,Left,Yes,Cancer,Dog,Center-Left,Yes,Extrovert
+53,Pink,Digestive,Left,No,Aries,Bird,Left,No,Ambivert
+63,Red,Hobnob,Left,Yes,Taurus,Dog,Center,No,Extrovert
+52,White,Rich Tea,Left,Yes,Cancer,Dog,Center-Right,No,Introvert
+54,Brown,Garibaldi,Left,No,Pisces,Cat,Left,No,Introvert
+30,Black,Ginger Nut,Left,No,Sagittarius,Dog,Center-Left,No,Introvert
+74,White,Hobnob,Left,Yes,Virgo,Rabbit,Left,Yes,Ambivert
+50,Brown,Custard Cream,Right,Yes,Leo,Fish,Center,No,Introvert
+41,Pink,Jammie Dodger,Left,Yes,Taurus,Cat,Center-Right,No,Extrovert
+38,Green,Nice,Left,Yes,Aquarius,Fish,Center-Right,Yes,Introvert
+23,Yellow,Bourbon,Left,Yes,Gemini,Dog,Left,No,Extrovert
+76,Red,Shortbread,Right,Yes,Taurus,Rabbit,Center,No,Ambivert
+35,Blue,Rich Tea,Right,No,Leo,Cat,Center,Yes,Introvert
+68,Green,Rich Tea,Left,Yes,Aquarius,Cat,Center-Right,Yes,Introvert
+79,Green,Shortbread,Left,No,Capricorn,Bird,Right,Yes,Introvert
+80,Pink,Ginger Nut,Right,No,Leo,Dog,Center,Yes,Extrovert
+20,Pink,Garibaldi,Left,Yes,Aquarius,Dog,Center,No,Extrovert
+63,Green,Rich Tea,Right,No,Gemini,Fish,Center,Yes,Introvert
+56,Purple,Custard Cream,Right,No,Libra,Bird,Center-Left,No,Ambivert
+37,Red,Ginger Nut,Left,No,Pisces,Rabbit,Center-Left,No,Introvert
+74,Black,Rich Tea,Right,No,Gemini,Rabbit,Center,Yes,Introvert
+61,Green,Bourbon,Right,No,Virgo,Fish,Center-Left,Yes,Introvert
+29,Blue,Digestive,Right,No,Scorpio,Cat,Center-Right,Yes,Introvert
+76,Purple,Jammie Dodger,Left,Yes,Virgo,Dog,Center-Right,Yes,Extrovert
+44,Green,Rich Tea,Left,No,Aries,Fish,Center,No,Introvert
+67,Green,Digestive,Left,No,Virgo,Rabbit,Center-Left,Yes,Introvert
+20,Orange,Nice,Left,Yes,Virgo,Cat,Center-Right,No,Introvert
+30,Pink,Nice,Right,No,Aquarius,Cat,Right,Yes,Introvert
+58,Brown,Jammie Dodger,Left,No,Gemini,Bird,Center-Left,Yes,Ambivert
+64,Green,Ginger Nut,Right,Yes,Pisces,Fish,Center-Right,No,Introvert
+77,Pink,Custard Cream,Right,No,Leo,Dog,Center,No,Ambivert
+45,Yellow,Nice,Right,No,Libra,Bird,Center,No,Introvert
+24,Green,Nice,Right,Yes,Sagittarius,Fish,Center-Left,Yes,Introvert
+37,White,Bourbon,Left,No,Aries,Bird,Center-Right,Yes,Introvert
+41,White,Ginger Nut,Right,No,Virgo,Fish,Center-Left,No,Introvert
+56,Black,Bourbon,Right,No,Leo,Dog,Center-Right,Yes,Introvert
+32,Red,Garibaldi,Right,Yes,Pisces,Cat,Right,No,Extrovert
+29,White,Garibaldi,Left,No,Capricorn,Rabbit,Center-Left,Yes,Ambivert
+54,Blue,Rich Tea,Left,Yes,Virgo,Dog,Left,No,Introvert
+19,Brown,Custard Cream,Right,Yes,Cancer,Bird,Center-Left,Yes,Ambivert
+58,Pink,Shortbread,Left,Yes,Pisces,Bird,Center-Right,Yes,Extrovert
+79,Yellow,Jammie Dodger,Left,Yes,Aries,Rabbit,Right,No,Extrovert
+37,Brown,Hobnob,Left,Yes,Aquarius,Dog,Left,Yes,Ambivert
+53,Yellow,Digestive,Left,Yes,Aries,Rabbit,Center-Right,Yes,Extrovert
+66,Pink,Jammie Dodger,Right,Yes,Taurus,Dog,Left,Yes,Extrovert
+38,White,Ginger Nut,Left,No,Aries,Dog,Center-Left,Yes,Ambivert
+22,Orange,Rich Tea,Right,No,Aries,Fish,Center-Left,No,Introvert
+33,Blue,Bourbon,Right,Yes,Sagittarius,Bird,Left,Yes,Ambivert
+70,Green,Garibaldi,Left,No,Aquarius,Rabbit,Right,No,Ambivert
+50,Blue,Shortbread,Right,Yes,Taurus,Dog,Center,No,Ambivert
+67,Orange,Custard Cream,Right,No,Sagittarius,Fish,Left,No,Introvert
+66,Brown,Ginger Nut,Left,Yes,Scorpio,Fish,Center-Left,Yes,Introvert
+64,Black,Ginger Nut,Left,No,Capricorn,Dog,Center,Yes,Introvert
+31,Black,Shortbread,Right,No,Aries,Rabbit,Center,Yes,Introvert
+18,Orange,Hobnob,Left,Yes,Aries,Fish,Center-Right,Yes,Extrovert
+45,Purple,Custard Cream,Right,Yes,Virgo,Dog,Center,No,Extrovert
+29,Orange,Jammie Dodger,Left,No,Sagittarius,Dog,Center-Left,No,Extrovert
+41,Yellow,Garibaldi,Left,Yes,Libra,Rabbit,Center,No,Extrovert
+51,Purple,Jammie Dodger,Right,Yes,Libra,Fish,Left,No,Extrovert
+42,Red,Shortbread,Right,Yes,Taurus,Rabbit,Center-Right,No,Ambivert
+66,Pink,Nice,Left,No,Pisces,Rabbit,Center,No,Introvert
+49,Purple,Garibaldi,Right,No,Leo,Cat,Center-Right,Yes,Ambivert
+56,White,Bourbon,Left,No,Virgo,Bird,Right,No,Introvert
+57,Pink,Jammie Dodger,Left,Yes,Capricorn,Rabbit,Center,No,Extrovert
+60,Yellow,Rich Tea,Left,Yes,Aquarius,Fish,Right,Yes,Introvert
+58,Green,Ginger Nut,Left,No,Aries,Dog,Right,No,Introvert
+80,Orange,Shortbread,Left,No,Aries,Cat,Center-Right,Yes,Introvert
+39,Green,Custard Cream,Left,Yes,Capricorn,Fish,Left,No,Introvert
+39,White,Hobnob,Right,Yes,Cancer,Fish,Left,No,Introvert
+66,Red,Bourbon,Left,No,Cancer,Rabbit,Left,No,Introvert
+52,Black,Digestive,Right,No,Capricorn,Rabbit,Left,No,Introvert
+54,Yellow,Jammie Dodger,Left,No,Leo,Rabbit,Center,Yes,Extrovert
+55,Brown,Hobnob,Left,Yes,Sagittarius,Dog,Center,Yes,Ambivert
+79,Orange,Custard Cream,Right,No,Virgo,Cat,Center,No,Introvert
+72,White,Ginger Nut,Left,No,Aquarius,Fish,Center-Left,Yes,Introvert
+74,Yellow,Bourbon,Right,Yes,Leo,Rabbit,Left,Yes,Extrovert
+25,Purple,Rich Tea,Left,No,Scorpio,Rabbit,Center,No,Introvert
+43,Brown,Rich Tea,Right,Yes,Virgo,Rabbit,Center-Left,Yes,Introvert
+39,White,Rich Tea,Left,Yes,Scorpio,Rabbit,Center-Right,Yes,Introvert
+63,Green,Shortbread,Right,Yes,Virgo,Dog,Left,No,Ambivert
+64,Red,Custard Cream,Left,Yes,Sagittarius,Cat,Left,Yes,Extrovert
+44,Black,Garibaldi,Left,Yes,Aries,Cat,Left,Yes,Introvert
+31,Orange,Shortbread,Left,Yes,Gemini,Bird,Left,No,Extrovert
+35,Orange,Bourbon,Left,No,Gemini,Bird,Center-Left,Yes,Ambivert
+59,Purple,Hobnob,Right,Yes,Aries,Cat,Left,No,Extrovert
+40,Brown,Garibaldi,Right,No,Sagittarius,Dog,Right,Yes,Introvert
+35,Orange,Custard Cream,Left,No,Leo,Dog,Left,Yes,Ambivert
+79,Purple,Digestive,Left,No,Libra,Fish,Center,Yes,Introvert
+53,Purple,Hobnob,Right,No,Aquarius,Bird,Center,No,Ambivert
+24,Black,Garibaldi,Right,Yes,Sagittarius,Rabbit,Left,No,Introvert
+78,Blue,Digestive,Right,Yes,Libra,Cat,Left,No,Introvert
+23,Red,Garibaldi,Left,No,Gemini,Fish,Center-Left,Yes,Introvert
+60,Pink,Ginger Nut,Left,Yes,Scorpio,Cat,Right,Yes,Extrovert
+65,Orange,Rich Tea,Left,No,Virgo,Fish,Center,Yes,Introvert
+25,Purple,Rich Tea,Left,No,Cancer,Dog,Center,No,Introvert
+27,Green,Digestive,Left,Yes,Cancer,Rabbit,Center-Left,No,Ambivert
+51,Green,Rich Tea,Left,No,Cancer,Dog,Center,No,Introvert
+29,White,Rich Tea,Right,Yes,Gemini,Rabbit,Center-Left,No,Introvert
+47,Red,Rich Tea,Left,No,Pisces,Dog,Center-Left,No,Introvert
+33,Orange,Digestive,Right,No,Capricorn,Fish,Center,No,Introvert
+20,Yellow,Custard Cream,Right,Yes,Gemini,Rabbit,Center-Left,Yes,Extrovert
+35,Green,Digestive,Right,Yes,Gemini,Bird,Right,No,Ambivert
+20,Red,Digestive,Left,Yes,Leo,Bird,Left,No,Ambivert
+37,Red,Nice,Right,No,Cancer,Rabbit,Left,No,Introvert
+57,Yellow,Ginger Nut,Right,Yes,Capricorn,Cat,Right,Yes,Extrovert
+53,Purple,Garibaldi,Right,No,Capricorn,Bird,Center-Right,Yes,Ambivert
+62,Yellow,Digestive,Left,Yes,Leo,Fish,Center,Yes,Ambivert
+29,Orange,Ginger Nut,Left,No,Sagittarius,Dog,Right,Yes,Ambivert
+54,Black,Custard Cream,Right,No,Capricorn,Bird,Center-Right,Yes,Introvert
+29,Black,Ginger Nut,Right,No,Capricorn,Rabbit,Center,Yes,Introvert
+66,Orange,Ginger Nut,Left,No,Sagittarius,Dog,Center-Right,No,Ambivert
+32,Yellow,Digestive,Right,No,Libra,Cat,Center,No,Introvert
+63,Pink,Hobnob,Left,Yes,Virgo,Cat,Left,No,Extrovert
+34,Yellow,Nice,Right,No,Capricorn,Fish,Center-Right,No,Introvert
+55,Pink,Garibaldi,Right,Yes,Scorpio,Cat,Center,No,Extrovert
+66,Yellow,Custard Cream,Left,No,Taurus,Bird,Left,Yes,Extrovert
+73,White,Custard Cream,Left,Yes,Aries,Rabbit,Left,Yes,Extrovert
+45,Orange,Nice,Left,Yes,Leo,Rabbit,Right,Yes,Ambivert
+53,Green,Garibaldi,Left,Yes,Gemini,Bird,Center-Right,Yes,Extrovert
+79,White,Shortbread,Left,Yes,Sagittarius,Bird,Center-Right,No,Ambivert
+18,Pink,Jammie Dodger,Left,No,Aquarius,Fish,Right,Yes,Extrovert
+40,Green,Hobnob,Right,Yes,Capricorn,Cat,Center-Right,Yes,Ambivert
+31,Purple,Hobnob,Right,No,Cancer,Bird,Center,Yes,Ambivert
+63,Pink,Shortbread,Left,Yes,Cancer,Dog,Left,Yes,Extrovert
+58,Orange,Digestive,Right,No,Scorpio,Rabbit,Center-Right,No,Introvert
+77,Black,Custard Cream,Right,No,Pisces,Cat,Center,No,Introvert
+69,White,Garibaldi,Left,Yes,Cancer,Bird,Center,No,Extrovert
+24,White,Bourbon,Right,No,Pisces,Rabbit,Right,No,Introvert
+25,Orange,Bourbon,Right,No,Aquarius,Bird,Right,Yes,Ambivert
+68,Yellow,Digestive,Left,No,Pisces,Rabbit,Center-Left,No,Introvert
+58,Green,Custard Cream,Left,No,Sagittarius,Fish,Center,No,Introvert
+37,Yellow,Bourbon,Right,Yes,Leo,Cat,Center-Left,No,Extrovert
+58,Blue,Jammie Dodger,Left,Yes,Sagittarius,Bird,Right,No,Extrovert
+71,Green,Shortbread,Right,Yes,Aquarius,Rabbit,Center-Right,Yes,Ambivert
+67,White,Rich Tea,Left,Yes,Leo,Dog,Center-Left,No,Introvert
+20,Pink,Ginger Nut,Right,No,Pisces,Fish,Center,Yes,Ambivert
+32,Blue,Garibaldi,Left,No,Aries,Rabbit,Left,Yes,Introvert
+51,Blue,Digestive,Left,No,Capricorn,Dog,Center,No,Introvert
+49,Orange,Jammie Dodger,Left,Yes,Capricorn,Fish,Left,No,Extrovert
+39,Red,Nice,Left,Yes,Scorpio,Bird,Center-Right,No,Introvert
+55,Black,Nice,Left,No,Scorpio,Bird,Center-Right,No,Introvert
+23,Green,Bourbon,Right,Yes,Scorpio,Dog,Center-Left,Yes,Extrovert
+36,Green,Jammie Dodger,Right,No,Capricorn,Cat,Center-Left,No,Ambivert
+62,Blue,Ginger Nut,Right,No,Virgo,Rabbit,Right,Yes,Introvert
+61,Green,Digestive,Left,No,Aquarius,Bird,Right,No,Introvert
+31,Blue,Shortbread,Right,Yes,Scorpio,Rabbit,Left,No,Ambivert
+46,Yellow,Ginger Nut,Right,Yes,Virgo,Fish,Center,No,Ambivert
+72,Green,Jammie Dodger,Right,No,Cancer,Cat,Right,No,Ambivert
+37,Blue,Jammie Dodger,Left,Yes,Pisces,Fish,Center,No,Ambivert
+77,Red,Rich Tea,Right,No,Capricorn,Cat,Center-Right,No,Introvert
+40,Brown,Bourbon,Right,Yes,Pisces,Rabbit,Center-Right,Yes,Ambivert
+64,Black,Rich Tea,Right,No,Libra,Cat,Center,No,Introvert
+25,Pink,Custard Cream,Left,Yes,Cancer,Fish,Left,Yes,Extrovert
+47,Black,Bourbon,Left,Yes,Aquarius,Rabbit,Center-Right,Yes,Introvert
+61,Black,Bourbon,Right,No,Capricorn,Dog,Right,No,Introvert
+21,Brown,Jammie Dodger,Left,No,Libra,Dog,Right,Yes,Ambivert
+26,Black,Garibaldi,Right,Yes,Scorpio,Bird,Center,Yes,Ambivert
+26,Blue,Rich Tea,Left,Yes,Gemini,Dog,Left,Yes,Introvert
+50,Brown,Rich Tea,Left,Yes,Leo,Rabbit,Center-Right,No,Introvert
+20,Black,Rich Tea,Right,No,Cancer,Dog,Center,No,Introvert
+77,Yellow,Shortbread,Left,Yes,Libra,Fish,Center-Left,No,Ambivert
+50,Red,Rich Tea,Right,Yes,Capricorn,Rabbit,Center,Yes,Introvert
+70,Red,Digestive,Right,Yes,Taurus,Dog,Right,Yes,Extrovert
+55,Pink,Nice,Left,Yes,Sagittarius,Rabbit,Center,No,Ambivert
+71,Blue,Ginger Nut,Right,No,Aries,Rabbit,Left,No,Introvert
+31,Pink,Digestive,Left,No,Capricorn,Cat,Center-Right,Yes,Ambivert
+69,Yellow,Jammie Dodger,Right,Yes,Taurus,Fish,Left,No,Extrovert
+30,Purple,Hobnob,Left,No,Libra,Bird,Center-Left,No,Ambivert
+73,Brown,Digestive,Right,No,Gemini,Dog,Center-Left,No,Introvert
+44,Black,Ginger Nut,Right,No,Scorpio,Cat,Right,Yes,Introvert
+70,Yellow,Digestive,Right,Yes,Scorpio,Fish,Center-Left,No,Ambivert
+18,White,Digestive,Right,No,Gemini,Rabbit,Center-Right,Yes,Introvert
+56,Brown,Hobnob,Right,Yes,Scorpio,Rabbit,Left,No,Ambivert
+18,Orange,Jammie Dodger,Left,No,Gemini,Bird,Center,No,Extrovert
+22,Purple,Garibaldi,Right,No,Libra,Bird,Center-Right,Yes,Ambivert
+31,Blue,Hobnob,Left,Yes,Cancer,Fish,Center-Left,No,Introvert
+48,Orange,Hobnob,Left,No,Aries,Rabbit,Center,No,Ambivert
+45,Green,Nice,Left,Yes,Pisces,Rabbit,Center-Right,No,Introvert
+57,Pink,Nice,Left,Yes,Leo,Fish,Center-Left,No,Introvert
+19,Green,Hobnob,Right,Yes,Leo,Fish,Right,No,Introvert
+65,Black,Hobnob,Right,No,Aquarius,Dog,Right,No,Introvert
+59,White,Garibaldi,Right,Yes,Taurus,Fish,Left,No,Ambivert
+34,Purple,Bourbon,Left,No,Cancer,Dog,Left,No,Ambivert
+62,Brown,Jammie Dodger,Left,No,Gemini,Rabbit,Right,Yes,Ambivert
+70,Orange,Shortbread,Right,No,Capricorn,Rabbit,Center-Right,Yes,Ambivert
+50,Blue,Ginger Nut,Right,No,Cancer,Rabbit,Right,Yes,Introvert
+22,Green,Custard Cream,Right,No,Gemini,Rabbit,Center,Yes,Ambivert
+52,Red,Shortbread,Left,No,Gemini,Rabbit,Left,No,Introvert
+40,Blue,Jammie Dodger,Right,No,Libra,Dog,Center,No,Ambivert
+29,Blue,Hobnob,Left,Yes,Aries,Fish,Right,No,Introvert
+61,Brown,Shortbread,Right,Yes,Capricorn,Cat,Left,No,Introvert
+63,Green,Hobnob,Right,Yes,Aquarius,Cat,Right,No,Ambivert
+19,Green,Jammie Dodger,Right,No,Aquarius,Bird,Center,Yes,Extrovert
+22,Red,Ginger Nut,Right,No,Aries,Rabbit,Center-Left,No,Introvert
+55,Green,Bourbon,Right,Yes,Capricorn,Bird,Center-Right,No,Ambivert
+78,Orange,Garibaldi,Left,No,Aries,Rabbit,Center,No,Ambivert
+46,Red,Digestive,Right,Yes,Capricorn,Dog,Center,No,Ambivert
+33,Black,Custard Cream,Right,No,Gemini,Dog,Right,Yes,Introvert
+31,Purple,Hobnob,Left,No,Aries,Fish,Left,No,Introvert
+19,Red,Digestive,Left,No,Capricorn,Fish,Center,Yes,Introvert
+49,Orange,Shortbread,Left,Yes,Gemini,Cat,Center-Right,No,Ambivert
+60,Red,Hobnob,Right,Yes,Leo,Dog,Left,Yes,Extrovert
+48,Blue,Rich Tea,Left,No,Libra,Rabbit,Center-Left,No,Introvert
+22,Black,Ginger Nut,Left,Yes,Libra,Bird,Center-Right,Yes,Introvert
+72,Pink,Nice,Left,No,Virgo,Rabbit,Center-Left,Yes,Introvert
+22,White,Shortbread,Right,No,Libra,Dog,Right,No,Introvert
+48,Orange,Jammie Dodger,Left,No,Pisces,Bird,Center-Right,No,Extrovert
+70,Brown,Digestive,Left,No,Leo,Bird,Right,No,Introvert
+44,Blue,Jammie Dodger,Left,Yes,Virgo,Dog,Center,Yes,Extrovert
+44,Green,Nice,Left,Yes,Aries,Dog,Center-Right,No,Introvert
+34,Brown,Bourbon,Left,No,Leo,Bird,Center-Right,No,Introvert
+72,Brown,Garibaldi,Left,No,Scorpio,Fish,Left,Yes,Introvert
+46,Green,Digestive,Left,Yes,Libra,Fish,Left,No,Introvert
+66,Orange,Jammie Dodger,Right,No,Virgo,Cat,Left,No,Ambivert
+56,Orange,Ginger Nut,Left,Yes,Virgo,Bird,Left,Yes,Extrovert
+50,Green,Bourbon,Right,No,Aquarius,Bird,Right,Yes,Introvert
+77,Red,Custard Cream,Right,Yes,Leo,Fish,Center,No,Ambivert
+54,Black,Shortbread,Right,Yes,Taurus,Rabbit,Center-Left,No,Introvert
+50,Red,Bourbon,Right,Yes,Leo,Bird,Center-Right,No,Ambivert
+33,Brown,Rich Tea,Left,No,Scorpio,Rabbit,Center,No,Introvert
+39,Pink,Hobnob,Right,Yes,Taurus,Cat,Left,No,Extrovert
+22,Green,Jammie Dodger,Left,Yes,Pisces,Cat,Left,Yes,Extrovert
+20,White,Rich Tea,Right,No,Gemini,Fish,Center-Right,Yes,Introvert
+18,Yellow,Hobnob,Left,Yes,Sagittarius,Dog,Left,Yes,Extrovert
+50,Purple,Garibaldi,Right,Yes,Aries,Cat,Center-Right,Yes,Extrovert
+65,Red,Nice,Left,No,Scorpio,Bird,Center,No,Introvert
+78,Black,Hobnob,Right,No,Taurus,Rabbit,Center-Right,Yes,Introvert
+27,Orange,Jammie Dodger,Right,Yes,Leo,Rabbit,Right,No,Extrovert
+35,Green,Hobnob,Right,Yes,Cancer,Bird,Center-Right,Yes,Extrovert
+47,Orange,Jammie Dodger,Left,Yes,Virgo,Bird,Left,No,Extrovert
+75,Brown,Jammie Dodger,Right,Yes,Leo,Bird,Right,Yes,Extrovert
+43,Purple,Nice,Right,Yes,Pisces,Rabbit,Center,Yes,Ambivert
+28,Black,Nice,Right,No,Leo,Bird,Left,Yes,Introvert
+57,White,Custard Cream,Right,Yes,Scorpio,Fish,Right,No,Ambivert
+42,Black,Ginger Nut,Right,Yes,Aries,Rabbit,Center-Right,Yes,Introvert
+68,Black,Nice,Right,Yes,Taurus,Rabbit,Center,No,Introvert
+70,Yellow,Custard Cream,Left,No,Sagittarius,Bird,Left,No,Ambivert
+76,Blue,Hobnob,Right,No,Virgo,Rabbit,Left,No,Introvert
+57,Purple,Rich Tea,Right,Yes,Pisces,Dog,Right,Yes,Ambivert
+46,Blue,Nice,Left,No,Taurus,Cat,Right,No,Introvert
+61,Yellow,Custard Cream,Right,No,Virgo,Rabbit,Left,Yes,Extrovert
+71,Purple,Nice,Right,No,Sagittarius,Cat,Center-Right,No,Introvert
+56,Yellow,Digestive,Right,Yes,Scorpio,Rabbit,Center-Right,No,Extrovert
+54,Orange,Bourbon,Left,Yes,Cancer,Fish,Center-Left,Yes,Ambivert
+33,Red,Custard Cream,Right,No,Libra,Rabbit,Center-Right,Yes,Ambivert
+23,Blue,Garibaldi,Right,Yes,Aries,Bird,Center-Right,Yes,Extrovert
+19,Brown,Bourbon,Right,No,Cancer,Fish,Center-Right,No,Introvert
+66,Brown,Ginger Nut,Right,Yes,Cancer,Cat,Center-Right,Yes,Ambivert
+41,Green,Rich Tea,Left,Yes,Taurus,Dog,Right,No,Introvert
+19,Orange,Hobnob,Left,Yes,Taurus,Dog,Left,Yes,Extrovert
+41,Red,Shortbread,Left,No,Taurus,Cat,Center,Yes,Introvert
+45,White,Shortbread,Left,No,Scorpio,Cat,Center,No,Introvert
+26,White,Custard Cream,Left,No,Aquarius,Fish,Right,No,Introvert
+25,Brown,Nice,Left,Yes,Sagittarius,Dog,Left,Yes,Introvert
+26,Yellow,Nice,Left,No,Libra,Dog,Center-Left,Yes,Ambivert
+31,White,Shortbread,Right,Yes,Cancer,Dog,Center,No,Ambivert
+33,Pink,Hobnob,Left,No,Aries,Cat,Right,No,Ambivert
+25,Purple,Bourbon,Left,Yes,Aries,Rabbit,Center-Left,No,Extrovert
+69,Orange,Digestive,Left,No,Libra,Rabbit,Center-Left,No,Introvert
+80,White,Garibaldi,Right,No,Virgo,Dog,Center-Right,No,Ambivert
+79,Purple,Jammie Dodger,Left,No,Pisces,Bird,Center-Right,Yes,Extrovert
+42,Black,Nice,Right,No,Taurus,Rabbit,Center-Right,Yes,Introvert
+56,Black,Shortbread,Left,Yes,Libra,Dog,Left,Yes,Introvert
+22,Yellow,Jammie Dodger,Right,No,Cancer,Cat,Center,No,Extrovert
+27,Green,Custard Cream,Left,No,Capricorn,Fish,Center-Right,No,Introvert
+23,Blue,Digestive,Left,Yes,Capricorn,Cat,Left,No,Introvert
+31,Orange,Rich Tea,Right,No,Cancer,Rabbit,Left,Yes,Introvert
+48,Red,Shortbread,Right,No,Taurus,Dog,Center-Right,No,Introvert
+52,Purple,Jammie Dodger,Right,Yes,Virgo,Rabbit,Right,Yes,Extrovert
+78,Brown,Hobnob,Left,Yes,Taurus,Fish,Right,Yes,Introvert
+18,Pink,Hobnob,Right,Yes,Gemini,Bird,Center,Yes,Extrovert
+28,Purple,Shortbread,Left,Yes,Virgo,Rabbit,Center-Left,Yes,Extrovert
+18,Black,Garibaldi,Left,Yes,Aquarius,Rabbit,Center-Right,No,Ambivert
+36,Pink,Custard Cream,Right,Yes,Leo,Rabbit,Center,Yes,Extrovert
+47,Brown,Digestive,Left,No,Leo,Dog,Left,No,Introvert
+71,Black,Hobnob,Right,Yes,Sagittarius,Bird,Right,Yes,Introvert
+67,Black,Ginger Nut,Left,No,Scorpio,Dog,Center,No,Introvert
+62,Red,Shortbread,Right,No,Aries,Rabbit,Center-Left,No,Introvert
+53,Orange,Garibaldi,Right,No,Cancer,Dog,Center-Right,No,Ambivert
+41,Purple,Jammie Dodger,Right,Yes,Taurus,Cat,Right,No,Extrovert
+46,Green,Bourbon,Right,No,Gemini,Cat,Center,Yes,Introvert
+46,Pink,Garibaldi,Left,Yes,Sagittarius,Bird,Center-Right,Yes,Extrovert
+66,Black,Nice,Right,No,Leo,Dog,Center-Left,Yes,Introvert
+53,Orange,Ginger Nut,Right,Yes,Aquarius,Bird,Center-Right,No,Extrovert
+26,Black,Hobnob,Right,No,Gemini,Rabbit,Right,Yes,Introvert
+18,Pink,Nice,Right,Yes,Capricorn,Rabbit,Center-Left,Yes,Extrovert
+75,Pink,Hobnob,Left,Yes,Cancer,Dog,Right,No,Extrovert
+21,Purple,Nice,Left,No,Sagittarius,Cat,Center-Right,Yes,Introvert
+29,Purple,Rich Tea,Right,Yes,Scorpio,Fish,Right,Yes,Introvert
+27,Orange,Shortbread,Left,Yes,Capricorn,Fish,Center-Left,Yes,Ambivert
+70,Green,Digestive,Right,Yes,Capricorn,Rabbit,Right,Yes,Ambivert
+42,Orange,Nice,Right,No,Cancer,Rabbit,Center-Right,No,Introvert
+60,Red,Ginger Nut,Right,Yes,Gemini,Bird,Center-Left,Yes,Extrovert
+25,Orange,Custard Cream,Right,Yes,Sagittarius,Rabbit,Center-Right,Yes,Extrovert
+69,Black,Custard Cream,Right,No,Pisces,Bird,Center,Yes,Introvert
+41,Orange,Bourbon,Left,No,Libra,Dog,Left,Yes,Ambivert
+78,Purple,Nice,Left,Yes,Leo,Fish,Center-Left,Yes,Introvert
+21,Black,Custard Cream,Left,Yes,Libra,Bird,Right,No,Introvert
+77,Brown,Digestive,Right,No,Cancer,Dog,Center-Right,No,Introvert
+49,Purple,Nice,Left,No,Libra,Cat,Center-Left,No,Introvert
+58,White,Ginger Nut,Right,Yes,Virgo,Bird,Center-Right,No,Ambivert
+54,Brown,Bourbon,Left,Yes,Scorpio,Fish,Left,Yes,Introvert
+79,Green,Digestive,Left,Yes,Capricorn,Rabbit,Center,No,Introvert
+19,Pink,Jammie Dodger,Left,No,Scorpio,Dog,Right,Yes,Extrovert
+25,Blue,Nice,Right,Yes,Aquarius,Rabbit,Center-Right,No,Introvert
+73,Pink,Rich Tea,Left,Yes,Aries,Cat,Center,Yes,Ambivert
+27,Red,Hobnob,Right,Yes,Gemini,Bird,Right,No,Ambivert
+30,Black,Shortbread,Left,No,Aquarius,Cat,Left,No,Introvert
+42,White,Garibaldi,Left,Yes,Aquarius,Cat,Center-Left,Yes,Extrovert
+77,Brown,Digestive,Right,No,Capricorn,Fish,Center-Right,Yes,Introvert
+74,Blue,Garibaldi,Left,Yes,Capricorn,Cat,Center-Left,Yes,Ambivert
+74,Yellow,Jammie Dodger,Left,Yes,Taurus,Rabbit,Right,Yes,Extrovert
+73,Blue,Custard Cream,Right,Yes,Pisces,Fish,Center,Yes,Introvert
+58,White,Shortbread,Right,No,Aquarius,Cat,Center-Right,Yes,Introvert
+72,Brown,Jammie Dodger,Right,Yes,Capricorn,Bird,Center-Left,Yes,Extrovert
+73,Black,Custard Cream,Left,No,Sagittarius,Cat,Right,Yes,Introvert
+46,Yellow,Garibaldi,Left,No,Libra,Bird,Left,Yes,Extrovert
+66,Purple,Jammie Dodger,Right,No,Capricorn,Dog,Center,Yes,Extrovert
+48,Black,Ginger Nut,Left,Yes,Cancer,Dog,Center-Left,No,Introvert
+57,Blue,Custard Cream,Right,No,Taurus,Bird,Center-Right,Yes,Introvert
+51,Green,Hobnob,Right,Yes,Libra,Cat,Center-Left,Yes,Extrovert
+20,Red,Digestive,Right,No,Sagittarius,Bird,Left,No,Introvert
+40,White,Shortbread,Right,No,Aries,Fish,Left,Yes,Introvert
+42,Pink,Shortbread,Right,Yes,Taurus,Bird,Center,Yes,Extrovert
+49,Blue,Garibaldi,Left,No,Capricorn,Rabbit,Center-Right,Yes,Introvert
+45,Red,Hobnob,Right,No,Gemini,Rabbit,Center-Right,Yes,Introvert
+38,Pink,Digestive,Left,No,Sagittarius,Cat,Right,No,Introvert
+73,Blue,Rich Tea,Right,Yes,Aries,Dog,Left,Yes,Introvert
+55,Red,Bourbon,Left,No,Pisces,Fish,Center-Right,Yes,Introvert
+18,Blue,Ginger Nut,Right,No,Gemini,Dog,Left,No,Introvert
+63,Black,Custard Cream,Left,No,Capricorn,Bird,Left,No,Introvert
+71,Red,Jammie Dodger,Left,No,Virgo,Bird,Right,No,Ambivert
+27,Black,Nice,Right,Yes,Scorpio,Bird,Right,No,Introvert
+28,Red,Digestive,Left,Yes,Gemini,Dog,Right,No,Ambivert
+24,Orange,Shortbread,Left,No,Sagittarius,Fish,Center,No,Introvert
+41,Blue,Garibaldi,Left,Yes,Aries,Bird,Center-Right,Yes,Extrovert
+49,Purple,Shortbread,Right,Yes,Cancer,Dog,Left,Yes,Extrovert
+27,Orange,Digestive,Right,Yes,Gemini,Dog,Center,No,Extrovert
+22,Orange,Jammie Dodger,Right,No,Aries,Dog,Center-Right,No,Extrovert
+54,Yellow,Rich Tea,Left,No,Libra,Bird,Center-Left,No,Introvert
+47,Brown,Shortbread,Right,Yes,Libra,Rabbit,Left,Yes,Ambivert
+44,White,Jammie Dodger,Right,Yes,Leo,Fish,Left,No,Ambivert
+56,Yellow,Hobnob,Right,Yes,Leo,Rabbit,Center,No,Extrovert
+37,Red,Hobnob,Right,Yes,Scorpio,Bird,Center-Right,Yes,Extrovert
+23,Pink,Ginger Nut,Left,No,Virgo,Cat,Center-Left,Yes,Extrovert
+60,Brown,Digestive,Left,Yes,Cancer,Rabbit,Center-Right,No,Introvert
+28,Blue,Rich Tea,Right,Yes,Leo,Dog,Center-Right,Yes,Introvert
+74,Black,Shortbread,Right,Yes,Aries,Fish,Left,No,Introvert
+65,Purple,Hobnob,Left,No,Gemini,Bird,Right,Yes,Ambivert
+38,Orange,Garibaldi,Right,No,Gemini,Cat,Center-Right,No,Ambivert
+22,Red,Bourbon,Left,No,Pisces,Bird,Left,No,Introvert
+40,Green,Rich Tea,Right,No,Aries,Fish,Center,Yes,Introvert
+75,Pink,Rich Tea,Left,Yes,Libra,Fish,Right,No,Introvert
+41,Red,Ginger Nut,Left,No,Pisces,Fish,Center-Right,No,Introvert
+36,Black,Jammie Dodger,Right,Yes,Leo,Rabbit,Center,No,Ambivert
+75,Black,Digestive,Right,Yes,Sagittarius,Cat,Center-Left,Yes,Introvert
+47,Purple,Jammie Dodger,Right,Yes,Leo,Fish,Center,No,Extrovert
+57,Yellow,Jammie Dodger,Right,No,Capricorn,Cat,Center,Yes,Extrovert
+50,Red,Ginger Nut,Left,Yes,Pisces,Bird,Left,No,Extrovert
+56,Pink,Custard Cream,Right,Yes,Pisces,Bird,Right,Yes,Extrovert
+57,Red,Jammie Dodger,Right,No,Scorpio,Rabbit,Center-Left,No,Ambivert
+59,Brown,Digestive,Right,No,Gemini,Bird,Left,No,Introvert
+25,Orange,Nice,Left,Yes,Leo,Fish,Center-Left,No,Introvert
+48,Purple,Garibaldi,Right,No,Gemini,Rabbit,Center-Left,No,Ambivert
+60,Red,Hobnob,Right,No,Pisces,Rabbit,Center,Yes,Ambivert
+19,Brown,Custard Cream,Left,Yes,Aquarius,Bird,Center,No,Ambivert
+54,Green,Shortbread,Right,No,Scorpio,Dog,Center-Right,No,Introvert
+68,Yellow,Shortbread,Left,Yes,Virgo,Fish,Right,Yes,Ambivert
+72,Blue,Nice,Left,Yes,Cancer,Dog,Center-Left,No,Introvert
+25,Red,Garibaldi,Left,No,Pisces,Dog,Left,No,Ambivert
+58,Green,Shortbread,Left,Yes,Leo,Bird,Left,Yes,Ambivert
+57,Yellow,Garibaldi,Right,Yes,Leo,Dog,Right,No,Extrovert
+21,Red,Ginger Nut,Right,Yes,Capricorn,Cat,Left,Yes,Ambivert
+41,Blue,Jammie Dodger,Right,Yes,Gemini,Rabbit,Center-Left,Yes,Extrovert
+21,Red,Bourbon,Right,No,Libra,Fish,Center-Right,Yes,Introvert
+27,Blue,Rich Tea,Left,Yes,Aries,Dog,Center-Right,No,Introvert
+70,Black,Shortbread,Right,No,Taurus,Cat,Center-Left,No,Introvert
+53,White,Jammie Dodger,Right,No,Virgo,Cat,Right,No,Ambivert
+74,Brown,Nice,Left,Yes,Gemini,Bird,Right,No,Introvert
+34,Orange,Digestive,Left,Yes,Gemini,Rabbit,Center-Right,Yes,Extrovert
+21,Blue,Shortbread,Left,No,Capricorn,Bird,Right,Yes,Introvert
+43,Brown,Nice,Left,No,Virgo,Dog,Center-Left,Yes,Introvert
+32,Purple,Garibaldi,Left,No,Capricorn,Cat,Center,No,Ambivert
