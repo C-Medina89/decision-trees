@@ -16,7 +16,7 @@ def split_data(X, y, random_seed, test_size=0.2):
     X_test = test_df.drop(columns=["personality"])
     y_test = test_df["personality"]
 
-    print(X_train)
+    # print(X_train)
     return X_train, X_test , y_train, y_test
 
 
