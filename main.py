@@ -75,3 +75,84 @@ print(f"F1 Score:  {f1:.3f}")
 
 print("\nConfusion Matrix:")
 print(cm)
+
+
+
+def tune_model(X_train, y_train, X_test, y_test):
+    max_depth_values = [3, 5, 10, None]
+    min_samples_split_values = [2, 5, 10]
+    criteria = ["gini", "entropy"]
+
+
+    best_score = 0
+    best_params = None
+
+
+    for depth in max_depth_values:
+        for split in min_samples_split_values:
+            for crit in criteria:
+
+                model = DecisionTreeClassifier(
+                    random_state=42,
+                    max_depth=depth,
+                    min_samples_split=split,
+                    criterion=crit
+                )
+
+                model.fit(X_train, y_train)
+                y_pred = model.predict(X_test)
+
+                acc = accuracy_score(y_test, y_pred)
+                f1 = f1_score(y_test, y_pred, average="macro")
+                cm = confusion_matrix(y_test, y_pred)
+
+                print(f"\nParameters: max_depth={depth}, min_samples_split={split}, criterion={crit}")
+                print(f"Accuracy:     {acc:.3f}")
+                print(f"F1 Score:     {f1:.3f}")
+                print(f"Confusion:\n{cm}")
+
+                if acc > best_score:
+                    best_score = acc
+                    best_params = (depth, split, crit)
+
+    print("\n--- BEST PARAMETERS FOUND ---")
+    print(f"Accuracy: {best_score:.3f}")
+    print(f"max_depth={best_params[0]}, min_samples_split={best_params[1]}, criterion={best_params[2]}")
+
+    return best_params
+
+
+            
+# best_depth, best_split, best_criterion = tune_model(X_train, y_train, X_test, y_test)
+
+
+
+best_depth = None
+best_split = 10
+best_criterion = "gini"
+
+model = DecisionTreeClassifier(
+    random_state=42,
+    max_depth=best_depth,
+    min_samples_split=best_split,
+    criterion=best_criterion
+)
+
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+
+# Evaluate final model
+acc = accuracy_score(y_test, y_pred)
+f1 = f1_score(y_test, y_pred, average="macro")
+cm = confusion_matrix(y_test, y_pred)
+
+print("\nFINAL MODEL RESULTS")
+print("---------------------")
+print(f"Accuracy:   {acc:.3f}")
+print(f"F1 Score:   {f1:.3f}")
+print("Confusion matrix:\n", cm)
+
+
+
+
+
